@@ -7,6 +7,7 @@ import pandas as pd
 from prophet import Prophet
 from flask_cors import CORS
 import logging
+from datetime import datetime, timedelta
 
 app = Flask(__name__)
 CORS(app)
@@ -15,35 +16,74 @@ CORS(app)
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+# base directory dynamically
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODELS_DIR = os.path.join(BASE_DIR, 'models')
-os.makedirs(MODELS_DIR, exist_ok=True)
+
+# models directories
+MODELS_DIRS = [
+    os.path.join(BASE_DIR, 'models1'),
+    os.path.join(BASE_DIR, 'models2'),
+    os.path.join(BASE_DIR, 'models3')
+]
+
+# Ensure all models directories exist
+for dir_path in MODELS_DIRS:
+    os.makedirs(dir_path, exist_ok=True)
+
+#  path to the mapping file dynamically
+MAPPING_FILE_PATH = os.path.join(BASE_DIR, 'product_model_mapping.csv')
 
 # Load product-to-model mapping
 product_to_model_mapping = {}
-if os.path.exists('product_model_mapping.csv'):
+if os.path.exists(MAPPING_FILE_PATH):
     try:
-        mapping_df = pd.read_csv('product_model_mapping.csv')
+        mapping_df = pd.read_csv(MAPPING_FILE_PATH)
         product_to_model_mapping = dict(zip(mapping_df['ProductName'], mapping_df['ModelFilePath']))
         logger.info("Loaded existing model mapping")
     except Exception as e:
         logger.error(f"Error loading model mapping: {str(e)}")
 
 def sanitize_product_name(product_name):
+    """Sanitize product names to make them safe for file paths."""
     return re.sub(r'[<>:"/\\|?*]', '_', product_name).strip()
 
+def find_model_file(product_name):
+    """Search for a model file across all models directories."""
+    sanitized_name = sanitize_product_name(product_name)
+    model_filename = f"{sanitized_name}_model.joblib"
+    
+    for models_dir in MODELS_DIRS:
+        model_path = os.path.join(models_dir, model_filename)
+        if os.path.exists(model_path):
+            return model_path
+    return None
+
 def generate_predictions():
-    """Shared prediction logic for both endpoints"""
+    """Shared prediction logic for both endpoints."""
     upcoming_reorders = []
     for product_name, model_path in product_to_model_mapping.items():
         try:
-            model = load(model_path)
-            future = model.make_future_dataframe(periods=4, freq='W', include_history=False)
-            forecast = model.predict(future)
-            
+            # Check if the product exists in historical_df
+            product_data = historical_df[historical_df['ProductName'] == product_name]
+            if product_data.empty:
+                logger.warning(f"No historical data found for product: {product_name}")
+                continue
+
             # Get the category for the product
-            category = historical_df[historical_df['ProductName'] == product_name]['Category'].iloc[0]
+            category = product_data['Category'].iloc[0]
+
+            # Load the model and generate predictions
+            model = load(model_path)  # Use the correct path from product_to_model_mapping
             
+            # Create a future dataframe starting from the current date
+            current_date = datetime.now().date()
+            future = model.make_future_dataframe(periods=4, freq='W', include_history=False)
+            
+            # Ensure the future dataframe starts from the current date
+            future['ds'] = pd.date_range(start=current_date, periods=4, freq='W')
+            
+            forecast = model.predict(future)
+
             for _, row in forecast[['ds', 'yhat']].iterrows():
                 upcoming_reorders.append({
                     "Date": row['ds'].strftime('%Y-%m-%d'),
@@ -58,14 +98,17 @@ def generate_predictions():
 
 @app.route("/")
 def home():
+    """Serve the home page."""
     return send_from_directory('static', 'index.html')
 
 @app.route("/products", methods=["GET"])
 def get_products():
+    """Return a list of products with trained models."""
     return jsonify({"products": list(product_to_model_mapping.keys())})
 
 @app.route("/upload", methods=["POST"])
 def upload():
+    """Upload a CSV file to train new models or update existing ones."""
     global historical_df  # Make historical_df global to access it in generate_predictions
     try:
         if 'file' not in request.files:
@@ -84,6 +127,9 @@ def upload():
         # Convert and sort dates
         historical_df['Date'] = pd.to_datetime(historical_df['Date'])
         historical_df = historical_df.sort_values('Date')
+
+        # Log the historical data for debugging
+        logger.debug(f"Historical data after upload:\n{historical_df.head()}")
 
         # Track model creation
         new_models = 0
@@ -112,10 +158,25 @@ def upload():
                 model.fit(product_df[['ds', 'y']])
                 
                 sanitized_name = sanitize_product_name(product_name)
-                model_path = os.path.join(MODELS_DIR, f"{sanitized_name}_model.joblib")
-                dump(model, model_path)
-                product_to_model_mapping[product_name] = model_path
-                new_models += 1
+                model_filename = f"{sanitized_name}_model.joblib"
+                
+                # Save the model in the first available directory
+                model_saved = False
+                for models_dir in MODELS_DIRS:
+                    model_path = os.path.join(models_dir, model_filename)
+                    try:
+                        dump(model, model_path)
+                        product_to_model_mapping[product_name] = model_path  # Update the mapping with the correct path
+                        new_models += 1
+                        model_saved = True
+                        break
+                    except Exception as e:
+                        logger.error(f"Error saving model for {product_name} in {models_dir}: {str(e)}")
+                        continue
+
+                if not model_saved:
+                    failed_models += 1
+                    continue
 
             except Exception as e:
                 logger.error(f"Error training {product_name}: {str(e)}")
@@ -127,7 +188,7 @@ def upload():
             pd.DataFrame(
                 list(product_to_model_mapping.items()), 
                 columns=['ProductName', 'ModelFilePath']
-            ).to_csv('product_model_mapping.csv', index=False)
+            ).to_csv(MAPPING_FILE_PATH, index=False)
 
         return jsonify({
             "message": "Upload processed successfully",
@@ -144,6 +205,7 @@ def upload():
 
 @app.route("/upcoming_reorders", methods=["GET"])
 def upcoming_reorders():
+    """Return a list of upcoming reorders based on trained models."""
     try:
         if not product_to_model_mapping:
             return jsonify({"error": "No models found"}), 404
@@ -154,6 +216,7 @@ def upcoming_reorders():
 
 @app.route("/download_reorders", methods=["GET"])
 def download_reorders():
+    """Download upcoming reorders as a CSV file."""
     try:
         if not product_to_model_mapping:
             return jsonify({"error": "No models found"}), 404
