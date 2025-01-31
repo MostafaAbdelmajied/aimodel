@@ -11,16 +11,13 @@
         input, button { padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; font-size: 16px; }
         button { background-color: #4CAF50; color: white; cursor: pointer; }
         button:disabled { background-color: #ccc; cursor: not-allowed; }
-        .loading { display: none; color: #555; font-style: italic; }
+        #loading { display: none; color: #555; font-style: italic; }
         table { width: 100%; border-collapse: collapse; margin-top: 20px; }
         th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
         th { background-color: #4CAF50; color: white; }
         tr:nth-child(even) { background-color: #f9f9f9; }
         .error { color: red; font-weight: bold; }
         .stats { margin: 15px 0; padding: 10px; background: #f0f0f0; border-radius: 5px; }
-        .message { margin: 10px 0; padding: 10px; border-radius: 5px; }
-        .success { background-color: #d4edda; color: #155724; }
-        .error-message { background-color: #f8d7da; color: #721c24; }
     </style>
 </head>
 <body>
@@ -32,17 +29,14 @@
         <input type="file" id="csvFile" accept=".csv" required>
         <br>
         <button type="button" onclick="uploadCSV()">Upload and Train Models</button>
-        <div id="uploadLoading" class="loading">Uploading and training models...</div>
-        <div id="uploadMessage" class="message"></div>
     </form>
 
     <h2>Upcoming Reorders (Next 4 Weeks)</h2>
     <div>
         <button onclick="getUpcomingReorders()" id="reorderButton">Get Upcoming Reorders</button>
         <button onclick="downloadCSV()" id="downloadButton">Download CSV</button>
-        <div id="loadingReorders" class="loading">Loading upcoming reorders...</div>
-        <div id="reorderMessage" class="message"></div>
     </div>
+    <div id="loadingReorders" style="display: none;">Loading upcoming reorders...</div>
     <div id="uploadStats" class="stats"></div>
     
     <table id="upcomingReordersTable">
@@ -62,17 +56,11 @@
             const file = document.getElementById('csvFile').files[0];
             if (!file) return alert('Please upload a CSV file.');
 
-            const uploadLoading = document.getElementById('uploadLoading');
-            const uploadMessage = document.getElementById('uploadMessage');
-            uploadLoading.style.display = 'block';
-            uploadMessage.textContent = '';
-            uploadMessage.className = 'message';
-
             const formData = new FormData();
             formData.append('file', file);
 
             try {
-                const response = await fetch('http://127.0.0.1:5000/upload', {
+                const response = await fetch('https://aimodel-qfb4.onrender.com/upload', {
                     method: 'POST',
                     body: formData,
                 });
@@ -89,28 +77,21 @@
                     - Failed model creations: ${stats.failed_model_creations}
                 `;
                 
-                uploadMessage.textContent = data.message;
-                uploadMessage.className = 'message success';
+                alert(data.message);
             } catch (error) {
                 console.error('Upload error:', error);
-                uploadMessage.textContent = `Error: ${error.message}`;
-                uploadMessage.className = 'message error-message';
-            } finally {
-                uploadLoading.style.display = 'none';
+                alert(`Error: ${error.message}`);
             }
         }
 
         async function getUpcomingReorders() {
             const button = document.getElementById('reorderButton');
             const loading = document.getElementById('loadingReorders');
-            const reorderMessage = document.getElementById('reorderMessage');
             button.disabled = true;
             loading.style.display = 'block';
-            reorderMessage.textContent = '';
-            reorderMessage.className = 'message';
 
             try {
-                const response = await fetch('http://127.0.0.1:5000/upcoming_reorders');
+                const response = await fetch('https://aimodel-qfb4.onrender.com/upcoming_reorders');
                 const data = await response.json();
                 if (!response.ok) throw new Error(data.error || `HTTP error! Status: ${response.status}`);
                 
@@ -123,13 +104,9 @@
                         <td>${reorder.ReorderQuantity}</td>
                     </tr>
                 `).join('');
-
-                reorderMessage.textContent = 'Upcoming reorders fetched successfully!';
-                reorderMessage.className = 'message success';
             } catch (error) {
                 console.error('Fetch error:', error);
-                reorderMessage.textContent = `Error: ${error.message}`;
-                reorderMessage.className = 'message error-message';
+                alert(`Error: ${error.message}`);
             } finally {
                 button.disabled = false;
                 loading.style.display = 'none';
@@ -137,12 +114,8 @@
         }
 
         async function downloadCSV() {
-            const downloadMessage = document.getElementById('reorderMessage');
-            downloadMessage.textContent = '';
-            downloadMessage.className = 'message';
-
             try {
-                const response = await fetch('http://127.0.0.1:5000/download_reorders');
+                const response = await fetch('https://aimodel-qfb4.onrender.com/download_reorders');
                 if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
                 
                 const blob = await response.blob();
@@ -154,13 +127,9 @@
                 a.click();
                 window.URL.revokeObjectURL(url);
                 document.body.removeChild(a);
-
-                downloadMessage.textContent = 'CSV downloaded successfully!';
-                downloadMessage.className = 'message success';
             } catch (error) {
                 console.error('Download error:', error);
-                downloadMessage.textContent = `Download failed: ${error.message}`;
-                downloadMessage.className = 'message error-message';
+                alert(`Download failed: ${error.message}`);
             }
         }
     </script>
