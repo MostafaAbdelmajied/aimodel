@@ -60,7 +60,7 @@
             formData.append('file', file);
 
             try {
-                const response = await fetch('https://aimodel-qfb4.onrender.com//upload', {
+                const response = await fetch('https://aimodel-qfb4.onrender.com/upload', {
                     method: 'POST',
                     body: formData,
                 });
@@ -91,7 +91,7 @@
             loading.style.display = 'block';
 
             try {
-                const response = await fetch('https://aimodel-qfb4.onrender.com//upcoming_reorders');
+                const response = await fetch('https://aimodel-qfb4.onrender.com/upcoming_reorders');
                 const data = await response.json();
                 if (!response.ok) throw new Error(data.error || `HTTP error! Status: ${response.status}`);
                 
@@ -115,7 +115,7 @@
 
         async function downloadCSV() {
             try {
-                const response = await fetch('https://aimodel-qfb4.onrender.com//download_reorders');
+                const response = await fetch('https://aimodel-qfb4.onrender.com/download_reorders');
                 if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
                 
                 const blob = await response.blob();
