@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Supermarket Inventory Predictor</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f9; color: #333; }
+        h1 { color: #4CAF50; }
+        label { font-weight: bold; }
+        input, button { padding: 10px; margin: 10px 0; border: 1px solid #ccc; border-radius: 5px; font-size: 16px; }
+        button { background-color: #4CAF50; color: white; cursor: pointer; }
+        button:disabled { background-color: #ccc; cursor: not-allowed; }
+        #loading { display: none; color: #555; font-style: italic; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { padding: 10px; border: 1px solid #ddd; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        tr:nth-child(even) { background-color: #f9f9f9; }
+        .error { color: red; font-weight: bold; }
+        .stats { margin: 15px 0; padding: 10px; background: #f0f0f0; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Supermarket Inventory Predictor</h1>
+
+    <h2>Upload Historical Data</h2>
+    <form id="uploadForm">
+        <label for="csvFile">Upload CSV File:</label>
+        <input type="file" id="csvFile" accept=".csv" required>
+        <br>
+        <button type="button" onclick="uploadCSV()">Upload and Train Models</button>
+    </form>
+
+    <h2>Upcoming Reorders (Next 4 Weeks)</h2>
+    <div>
+        <button onclick="getUpcomingReorders()" id="reorderButton">Get Upcoming Reorders</button>
+        <button onclick="downloadCSV()" id="downloadButton">Download CSV</button>
+    </div>
+    <div id="loadingReorders" style="display: none;">Loading upcoming reorders...</div>
+    <div id="uploadStats" class="stats"></div>
+    
+    <table id="upcomingReordersTable">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Product Name</th>
+                <th>Category</th>
+                <th>Reorder Quantity</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        async function uploadCSV() {
+            const file = document.getElementById('csvFile').files[0];
+            if (!file) return alert('Please upload a CSV file.');
+
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                const response = await fetch('http://127.0.0.1:5000/upload', {
+                    method: 'POST',
+                    body: formData,
+                });
+                const data = await response.json();
+                
+                if (!response.ok) throw new Error(data.error || `HTTP error! Status: ${response.status}`);
+                
+                // Show upload statistics
+                const stats = data.stats;
+                document.getElementById('uploadStats').innerHTML = `
+                    <strong>Upload Statistics:</strong><br>
+                    - New models created: ${stats.new_models_created}<br>
+                    - Existing models skipped: ${stats.existing_models_skipped}<br>
+                    - Failed model creations: ${stats.failed_model_creations}
+                `;
+                
+                alert(data.message);
+            } catch (error) {
+                console.error('Upload error:', error);
+                alert(`Error: ${error.message}`);
+            }
+        }
+
+        async function getUpcomingReorders() {
+            const button = document.getElementById('reorderButton');
+            const loading = document.getElementById('loadingReorders');
+            button.disabled = true;
+            loading.style.display = 'block';
+
+            try {
+                const response = await fetch('http://127.0.0.1:5000/upcoming_reorders');
+                const data = await response.json();
+                if (!response.ok) throw new Error(data.error || `HTTP error! Status: ${response.status}`);
+                
+                const tableBody = document.querySelector('#upcomingReordersTable tbody');
+                tableBody.innerHTML = data.upcoming_reorders.map(reorder => `
+                    <tr>
+                        <td>${reorder.Date}</td>
+                        <td>${reorder.ProductName}</td>
+                        <td>${reorder.Category}</td>
+                        <td>${reorder.ReorderQuantity}</td>
+                    </tr>
+                `).join('');
+            } catch (error) {
+                console.error('Fetch error:', error);
+                alert(`Error: ${error.message}`);
+            } finally {
+                button.disabled = false;
+                loading.style.display = 'none';
+            }
+        }
+
+        async function downloadCSV() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/download_reorders');
+                if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+                
+                const blob = await response.blob();
+                const url = window.URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'upcoming_reorders.csv';
+                document.body.appendChild(a);
+                a.click();
+                window.URL.revokeObjectURL(url);
+                document.body.removeChild(a);
+            } catch (error) {
+                console.error('Download error:', error);
+                alert(`Download failed: ${error.message}`);
+            }
+        }
+    </script>
+</body>
+</html>

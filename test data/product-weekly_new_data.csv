@@ -1,0 +1,1365 @@
+Date,ProductName,Category,UnitPrice,StockQuantity,ReorderLevel,UnitsSold,SalesValue,Month,ReorderQuantity
+2024-12-01,Royal Hills Mushrooms 400 g,canned food,34.15,77,7,18,614.7,2024-12,26
+2024-12-01,Amr Sweet Corn 400 Gm,canned food,14.16,40,10,16,226.56,2024-12,50
+2024-12-01,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,21.51,16,14,22,473.22,2024-12,50
+2024-12-01,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,34.22,72,9,6,205.32,2024-12,30
+2024-12-01,Royal Hills Boiled Chickpeas 400 g,canned food,47.36,59,7,13,615.68,2024-12,48
+2024-12-01,"Dobella minced garlic, 200 gm",canned food,49.25,37,20,24,1182.0,2024-12,17
+2024-12-01,Nestle Evaporated Milk 170 g,dairy products,18.65,11,11,5,93.25,2024-12,12
+2024-12-01,Almarai Cheddar Cheese Slices,dairy products,25.64,31,13,5,128.2,2024-12,25
+2024-12-01,Puck Cream Cheese Spread,dairy products,36.38,93,13,7,254.66,2024-12,29
+2024-12-01,Lurpak Butter 500 g,dairy products,22.14,11,13,7,154.98,2024-12,40
+2024-12-01,Sadia Chicken Nuggets 1 Kg,frozen food,47.8,38,8,9,430.2,2024-12,49
+2024-12-01,Farm Frites French Fries 2.5 Kg,frozen food,21.3,76,7,24,511.2,2024-12,32
+2024-12-01,Green Giant Broccoli Florets 400 g,frozen food,26.6,15,15,14,372.4,2024-12,31
+2024-12-01,Oreo Original Biscuits 120 g,snacks,26.62,95,14,22,585.64,2024-12,27
+2024-12-01,Pringles Sour Cream & Onion 165 g,snacks,43.98,38,6,24,1055.52,2024-12,21
+2024-12-01,Lay's Salted Potato Chips 200 g,snacks,27.12,20,11,23,623.76,2024-12,13
+2024-12-01,Galaxy Milk Chocolate Bar 100 g,confectionery,46.37,54,11,16,741.92,2024-12,33
+2024-12-01,Ferrero Rocher T3 37.5 g,confectionery,10.61,82,20,19,201.59,2024-12,21
+2024-12-01,Cadbury Dairy Milk 200 g,confectionery,49.36,81,18,24,1184.64,2024-12,16
+2024-12-01,Sprite Soft Drink 1.5 L,beverages,14.54,16,13,7,101.78,2024-12,37
+2024-12-01,Coca-Cola Soft Drink 1.5 L,beverages,20.76,74,9,14,290.64,2024-12,24
+2024-12-01,Pepsi Soft Drink 1.5 L,beverages,33.5,63,14,8,268.0,2024-12,15
+2024-12-02,Royal Hills Mushrooms 400 g,canned food,35.84,46,15,7,250.88,2024-12,23
+2024-12-02,Amr Sweet Corn 400 Gm,canned food,13.82,66,11,12,165.84,2024-12,21
+2024-12-02,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,48.32,100,8,24,1159.68,2024-12,43
+2024-12-02,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,49.52,90,7,6,297.12,2024-12,48
+2024-12-02,Royal Hills Boiled Chickpeas 400 g,canned food,10.61,37,13,6,63.66,2024-12,35
+2024-12-02,"Dobella minced garlic, 200 gm",canned food,36.13,40,14,13,469.69,2024-12,17
+2024-12-02,Nestle Evaporated Milk 170 g,dairy products,23.27,36,15,14,325.78,2024-12,20
+2024-12-02,Almarai Cheddar Cheese Slices,dairy products,43.64,42,19,9,392.76,2024-12,21
+2024-12-02,Puck Cream Cheese Spread,dairy products,12.09,78,5,18,217.62,2024-12,23
+2024-12-02,Lurpak Butter 500 g,dairy products,16.55,24,13,16,264.8,2024-12,23
+2024-12-02,Sadia Chicken Nuggets 1 Kg,frozen food,49.24,14,8,11,541.64,2024-12,13
+2024-12-02,Farm Frites French Fries 2.5 Kg,frozen food,47.06,23,18,9,423.54,2024-12,21
+2024-12-02,Green Giant Broccoli Florets 400 g,frozen food,39.23,70,13,24,941.52,2024-12,46
+2024-12-02,Oreo Original Biscuits 120 g,snacks,43.37,55,14,12,520.44,2024-12,46
+2024-12-02,Pringles Sour Cream & Onion 165 g,snacks,32.96,97,17,20,659.2,2024-12,25
+2024-12-02,Lay's Salted Potato Chips 200 g,snacks,30.45,42,11,23,700.35,2024-12,40
+2024-12-02,Galaxy Milk Chocolate Bar 100 g,confectionery,24.65,23,14,18,443.7,2024-12,33
+2024-12-02,Ferrero Rocher T3 37.5 g,confectionery,42.91,39,14,22,944.02,2024-12,10
+2024-12-02,Cadbury Dairy Milk 200 g,confectionery,20.45,52,9,17,347.65,2024-12,16
+2024-12-02,Sprite Soft Drink 1.5 L,beverages,13.51,43,17,9,121.59,2024-12,45
+2024-12-02,Coca-Cola Soft Drink 1.5 L,beverages,34.18,75,18,17,581.06,2024-12,15
+2024-12-02,Pepsi Soft Drink 1.5 L,beverages,37.01,68,6,18,666.18,2024-12,30
+2024-12-03,Royal Hills Mushrooms 400 g,canned food,12.95,27,12,5,64.75,2024-12,27
+2024-12-03,Amr Sweet Corn 400 Gm,canned food,26.81,94,16,8,214.48,2024-12,39
+2024-12-03,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,21.32,56,17,11,234.52,2024-12,12
+2024-12-03,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,40.23,34,9,15,603.45,2024-12,25
+2024-12-03,Royal Hills Boiled Chickpeas 400 g,canned food,39.41,29,10,11,433.51,2024-12,26
+2024-12-03,"Dobella minced garlic, 200 gm",canned food,13.83,83,17,14,193.62,2024-12,31
+2024-12-03,Nestle Evaporated Milk 170 g,dairy products,18.53,98,7,9,166.77,2024-12,35
+2024-12-03,Almarai Cheddar Cheese Slices,dairy products,36.2,91,11,5,181.0,2024-12,13
+2024-12-03,Puck Cream Cheese Spread,dairy products,31.13,48,13,7,217.91,2024-12,40
+2024-12-03,Lurpak Butter 500 g,dairy products,43.44,49,6,18,781.92,2024-12,31
+2024-12-03,Sadia Chicken Nuggets 1 Kg,frozen food,12.44,38,8,17,211.48,2024-12,34
+2024-12-03,Farm Frites French Fries 2.5 Kg,frozen food,12.7,96,11,17,215.9,2024-12,45
+2024-12-03,Green Giant Broccoli Florets 400 g,frozen food,18.92,72,6,8,151.36,2024-12,36
+2024-12-03,Oreo Original Biscuits 120 g,snacks,16.97,51,14,12,203.64,2024-12,39
+2024-12-03,Pringles Sour Cream & Onion 165 g,snacks,45.64,86,16,22,1004.08,2024-12,32
+2024-12-03,Lay's Salted Potato Chips 200 g,snacks,48.71,30,6,10,487.1,2024-12,39
+2024-12-03,Galaxy Milk Chocolate Bar 100 g,confectionery,14.62,76,6,15,219.3,2024-12,14
+2024-12-03,Ferrero Rocher T3 37.5 g,confectionery,18.39,49,18,25,459.75,2024-12,33
+2024-12-03,Cadbury Dairy Milk 200 g,confectionery,12.54,89,12,24,300.96,2024-12,42
+2024-12-03,Sprite Soft Drink 1.5 L,beverages,49.35,31,10,14,690.9,2024-12,40
+2024-12-03,Coca-Cola Soft Drink 1.5 L,beverages,48.81,16,9,7,341.67,2024-12,39
+2024-12-03,Pepsi Soft Drink 1.5 L,beverages,30.06,29,8,18,541.08,2024-12,50
+2024-12-04,Royal Hills Mushrooms 400 g,canned food,19.06,57,18,25,476.5,2024-12,25
+2024-12-04,Amr Sweet Corn 400 Gm,canned food,31.5,53,17,12,378.0,2024-12,23
+2024-12-04,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,11.84,74,14,13,153.92,2024-12,12
+2024-12-04,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,28.09,96,10,25,702.25,2024-12,18
+2024-12-04,Royal Hills Boiled Chickpeas 400 g,canned food,16.4,48,18,17,278.8,2024-12,11
+2024-12-04,"Dobella minced garlic, 200 gm",canned food,20.73,86,15,21,435.33,2024-12,11
+2024-12-04,Nestle Evaporated Milk 170 g,dairy products,38.76,31,17,15,581.4,2024-12,13
+2024-12-04,Almarai Cheddar Cheese Slices,dairy products,45.64,37,20,25,1141.0,2024-12,34
+2024-12-04,Puck Cream Cheese Spread,dairy products,37.82,82,10,19,718.58,2024-12,15
+2024-12-04,Lurpak Butter 500 g,dairy products,40.15,63,19,6,240.9,2024-12,35
+2024-12-04,Sadia Chicken Nuggets 1 Kg,frozen food,20.14,55,6,13,261.82,2024-12,10
+2024-12-04,Farm Frites French Fries 2.5 Kg,frozen food,46.49,63,7,5,232.45,2024-12,50
+2024-12-04,Green Giant Broccoli Florets 400 g,frozen food,37.74,22,8,19,717.06,2024-12,45
+2024-12-04,Oreo Original Biscuits 120 g,snacks,47.13,68,16,17,801.21,2024-12,28
+2024-12-04,Pringles Sour Cream & Onion 165 g,snacks,33.68,86,7,16,538.88,2024-12,31
+2024-12-04,Lay's Salted Potato Chips 200 g,snacks,42.54,60,15,8,340.32,2024-12,31
+2024-12-04,Galaxy Milk Chocolate Bar 100 g,confectionery,36.95,95,7,5,184.75,2024-12,43
+2024-12-04,Ferrero Rocher T3 37.5 g,confectionery,34.99,19,17,19,664.81,2024-12,49
+2024-12-04,Cadbury Dairy Milk 200 g,confectionery,43.07,50,9,15,646.05,2024-12,16
+2024-12-04,Sprite Soft Drink 1.5 L,beverages,16.46,66,8,21,345.66,2024-12,24
+2024-12-04,Coca-Cola Soft Drink 1.5 L,beverages,26.87,33,19,24,644.88,2024-12,39
+2024-12-04,Pepsi Soft Drink 1.5 L,beverages,26.31,57,6,17,447.27,2024-12,19
+2024-12-05,Royal Hills Mushrooms 400 g,canned food,25.09,37,7,21,526.89,2024-12,31
+2024-12-05,Amr Sweet Corn 400 Gm,canned food,39.25,30,16,6,235.5,2024-12,24
+2024-12-05,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,19.35,83,9,20,387.0,2024-12,24
+2024-12-05,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,43.33,29,18,23,996.59,2024-12,17
+2024-12-05,Royal Hills Boiled Chickpeas 400 g,canned food,46.63,73,12,23,1072.49,2024-12,42
+2024-12-05,"Dobella minced garlic, 200 gm",canned food,45.91,39,15,20,918.2,2024-12,22
+2024-12-05,Nestle Evaporated Milk 170 g,dairy products,26.6,90,16,11,292.6,2024-12,26
+2024-12-05,Almarai Cheddar Cheese Slices,dairy products,41.03,31,6,19,779.57,2024-12,43
+2024-12-05,Puck Cream Cheese Spread,dairy products,24.29,65,16,25,607.25,2024-12,27
+2024-12-05,Lurpak Butter 500 g,dairy products,11.85,60,16,19,225.15,2024-12,35
+2024-12-05,Sadia Chicken Nuggets 1 Kg,frozen food,43.27,48,8,20,865.4,2024-12,44
+2024-12-05,Farm Frites French Fries 2.5 Kg,frozen food,29.42,40,19,6,176.52,2024-12,25
+2024-12-05,Green Giant Broccoli Florets 400 g,frozen food,13.69,29,12,17,232.73,2024-12,31
+2024-12-05,Oreo Original Biscuits 120 g,snacks,37.07,56,15,24,889.68,2024-12,24
+2024-12-05,Pringles Sour Cream & Onion 165 g,snacks,12.78,79,5,13,166.14,2024-12,10
+2024-12-05,Lay's Salted Potato Chips 200 g,snacks,10.91,15,14,25,272.75,2024-12,41
+2024-12-05,Galaxy Milk Chocolate Bar 100 g,confectionery,27.07,17,12,12,324.84,2024-12,31
+2024-12-05,Ferrero Rocher T3 37.5 g,confectionery,47.52,52,7,13,617.76,2024-12,13
+2024-12-05,Cadbury Dairy Milk 200 g,confectionery,14.25,55,8,5,71.25,2024-12,43
+2024-12-05,Sprite Soft Drink 1.5 L,beverages,21.89,75,17,24,525.36,2024-12,42
+2024-12-05,Coca-Cola Soft Drink 1.5 L,beverages,16.36,70,17,18,294.48,2024-12,27
+2024-12-05,Pepsi Soft Drink 1.5 L,beverages,32.84,32,14,20,656.8,2024-12,27
+2024-12-06,Royal Hills Mushrooms 400 g,canned food,18.29,28,6,25,457.25,2024-12,22
+2024-12-06,Amr Sweet Corn 400 Gm,canned food,18.93,83,12,20,378.6,2024-12,48
+2024-12-06,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,12.12,99,7,5,60.6,2024-12,40
+2024-12-06,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,18.13,54,16,20,362.6,2024-12,17
+2024-12-06,Royal Hills Boiled Chickpeas 400 g,canned food,24.99,34,17,19,474.81,2024-12,17
+2024-12-06,"Dobella minced garlic, 200 gm",canned food,33.08,56,18,10,330.8,2024-12,30
+2024-12-06,Nestle Evaporated Milk 170 g,dairy products,14.43,48,15,18,259.74,2024-12,20
+2024-12-06,Almarai Cheddar Cheese Slices,dairy products,16.18,78,15,15,242.7,2024-12,41
+2024-12-06,Puck Cream Cheese Spread,dairy products,47.13,30,13,5,235.65,2024-12,49
+2024-12-06,Lurpak Butter 500 g,dairy products,37.14,10,14,24,891.36,2024-12,30
+2024-12-06,Sadia Chicken Nuggets 1 Kg,frozen food,29.56,14,18,14,413.84,2024-12,31
+2024-12-06,Farm Frites French Fries 2.5 Kg,frozen food,30.89,46,7,7,216.23,2024-12,25
+2024-12-06,Green Giant Broccoli Florets 400 g,frozen food,48.04,32,14,11,528.44,2024-12,38
+2024-12-06,Oreo Original Biscuits 120 g,snacks,43.92,90,6,24,1054.08,2024-12,13
+2024-12-06,Pringles Sour Cream & Onion 165 g,snacks,17.39,21,16,19,330.41,2024-12,47
+2024-12-06,Lay's Salted Potato Chips 200 g,snacks,37.6,52,18,22,827.2,2024-12,50
+2024-12-06,Galaxy Milk Chocolate Bar 100 g,confectionery,34.27,32,6,14,479.78,2024-12,17
+2024-12-06,Ferrero Rocher T3 37.5 g,confectionery,32.03,40,10,19,608.57,2024-12,35
+2024-12-06,Cadbury Dairy Milk 200 g,confectionery,31.83,39,7,18,572.94,2024-12,31
+2024-12-06,Sprite Soft Drink 1.5 L,beverages,43.24,71,20,19,821.56,2024-12,25
+2024-12-06,Coca-Cola Soft Drink 1.5 L,beverages,14.56,22,16,10,145.6,2024-12,10
+2024-12-06,Pepsi Soft Drink 1.5 L,beverages,14.12,17,11,18,254.16,2024-12,21
+2024-12-07,Royal Hills Mushrooms 400 g,canned food,48.81,31,19,25,1220.25,2024-12,20
+2024-12-07,Amr Sweet Corn 400 Gm,canned food,42.53,85,9,23,978.19,2024-12,43
+2024-12-07,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,45.71,61,19,19,868.49,2024-12,44
+2024-12-07,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,16.83,89,8,13,218.79,2024-12,14
+2024-12-07,Royal Hills Boiled Chickpeas 400 g,canned food,34.22,91,10,13,444.86,2024-12,14
+2024-12-07,"Dobella minced garlic, 200 gm",canned food,13.78,70,13,15,206.7,2024-12,19
+2024-12-07,Nestle Evaporated Milk 170 g,dairy products,16.27,84,17,22,357.94,2024-12,38
+2024-12-07,Almarai Cheddar Cheese Slices,dairy products,34.36,76,6,8,274.88,2024-12,40
+2024-12-07,Puck Cream Cheese Spread,dairy products,13.3,22,7,22,292.6,2024-12,41
+2024-12-07,Lurpak Butter 500 g,dairy products,14.52,29,5,14,203.28,2024-12,13
+2024-12-07,Sadia Chicken Nuggets 1 Kg,frozen food,27.99,94,15,22,615.78,2024-12,19
+2024-12-07,Farm Frites French Fries 2.5 Kg,frozen food,31.3,98,18,18,563.4,2024-12,43
+2024-12-07,Green Giant Broccoli Florets 400 g,frozen food,29.61,16,14,7,207.27,2024-12,27
+2024-12-07,Oreo Original Biscuits 120 g,snacks,44.65,80,14,10,446.5,2024-12,12
+2024-12-07,Pringles Sour Cream & Onion 165 g,snacks,14.8,18,9,8,118.4,2024-12,16
+2024-12-07,Lay's Salted Potato Chips 200 g,snacks,22.06,56,14,21,463.26,2024-12,34
+2024-12-07,Galaxy Milk Chocolate Bar 100 g,confectionery,10.53,93,6,7,73.71,2024-12,13
+2024-12-07,Ferrero Rocher T3 37.5 g,confectionery,24.54,25,12,16,392.64,2024-12,45
+2024-12-07,Cadbury Dairy Milk 200 g,confectionery,17.73,93,18,17,301.41,2024-12,27
+2024-12-07,Sprite Soft Drink 1.5 L,beverages,11.8,57,20,21,247.8,2024-12,21
+2024-12-07,Coca-Cola Soft Drink 1.5 L,beverages,49.67,85,10,18,894.06,2024-12,24
+2024-12-07,Pepsi Soft Drink 1.5 L,beverages,41.54,18,11,6,249.24,2024-12,45
+2024-12-08,Royal Hills Mushrooms 400 g,canned food,22.83,22,8,7,159.81,2024-12,26
+2024-12-08,Amr Sweet Corn 400 Gm,canned food,37.23,86,16,8,297.84,2024-12,17
+2024-12-08,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,20.85,89,7,23,479.55,2024-12,39
+2024-12-08,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,39.32,17,15,15,589.8,2024-12,36
+2024-12-08,Royal Hills Boiled Chickpeas 400 g,canned food,40.16,36,17,18,722.88,2024-12,35
+2024-12-08,"Dobella minced garlic, 200 gm",canned food,18.24,38,19,12,218.88,2024-12,41
+2024-12-08,Nestle Evaporated Milk 170 g,dairy products,36.94,67,17,19,701.86,2024-12,10
+2024-12-08,Almarai Cheddar Cheese Slices,dairy products,39.78,96,9,21,835.38,2024-12,30
+2024-12-08,Puck Cream Cheese Spread,dairy products,33.83,93,13,6,202.98,2024-12,32
+2024-12-08,Lurpak Butter 500 g,dairy products,14.28,29,12,23,328.44,2024-12,28
+2024-12-08,Sadia Chicken Nuggets 1 Kg,frozen food,32.06,92,19,11,352.66,2024-12,34
+2024-12-08,Farm Frites French Fries 2.5 Kg,frozen food,20.63,97,8,15,309.45,2024-12,49
+2024-12-08,Green Giant Broccoli Florets 400 g,frozen food,20.86,17,18,11,229.46,2024-12,35
+2024-12-08,Oreo Original Biscuits 120 g,snacks,21.29,61,11,9,191.61,2024-12,29
+2024-12-08,Pringles Sour Cream & Onion 165 g,snacks,34.06,42,5,24,817.44,2024-12,28
+2024-12-08,Lay's Salted Potato Chips 200 g,snacks,10.83,75,12,7,75.81,2024-12,26
+2024-12-08,Galaxy Milk Chocolate Bar 100 g,confectionery,34.29,98,6,9,308.61,2024-12,50
+2024-12-08,Ferrero Rocher T3 37.5 g,confectionery,24.59,60,8,10,245.9,2024-12,45
+2024-12-08,Cadbury Dairy Milk 200 g,confectionery,39.75,78,13,25,993.75,2024-12,11
+2024-12-08,Sprite Soft Drink 1.5 L,beverages,39.7,70,20,10,397.0,2024-12,19
+2024-12-08,Coca-Cola Soft Drink 1.5 L,beverages,35.83,56,12,20,716.6,2024-12,38
+2024-12-08,Pepsi Soft Drink 1.5 L,beverages,37.84,77,8,22,832.48,2024-12,34
+2024-12-09,Royal Hills Mushrooms 400 g,canned food,19.56,56,19,15,293.4,2024-12,39
+2024-12-09,Amr Sweet Corn 400 Gm,canned food,26.23,91,12,24,629.52,2024-12,41
+2024-12-09,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,23.86,96,9,6,143.16,2024-12,50
+2024-12-09,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,13.0,95,7,22,286.0,2024-12,25
+2024-12-09,Royal Hills Boiled Chickpeas 400 g,canned food,28.33,92,19,7,198.31,2024-12,26
+2024-12-09,"Dobella minced garlic, 200 gm",canned food,34.13,33,20,6,204.78,2024-12,48
+2024-12-09,Nestle Evaporated Milk 170 g,dairy products,46.18,71,19,5,230.9,2024-12,46
+2024-12-09,Almarai Cheddar Cheese Slices,dairy products,35.86,62,9,15,537.9,2024-12,45
+2024-12-09,Puck Cream Cheese Spread,dairy products,18.47,44,7,25,461.75,2024-12,33
+2024-12-09,Lurpak Butter 500 g,dairy products,32.9,41,15,24,789.6,2024-12,30
+2024-12-09,Sadia Chicken Nuggets 1 Kg,frozen food,42.13,67,8,18,758.34,2024-12,50
+2024-12-09,Farm Frites French Fries 2.5 Kg,frozen food,31.61,17,14,25,790.25,2024-12,32
+2024-12-09,Green Giant Broccoli Florets 400 g,frozen food,44.44,39,11,16,711.04,2024-12,34
+2024-12-09,Oreo Original Biscuits 120 g,snacks,10.26,42,8,23,235.98,2024-12,10
+2024-12-09,Pringles Sour Cream & Onion 165 g,snacks,13.13,45,17,15,196.95,2024-12,19
+2024-12-09,Lay's Salted Potato Chips 200 g,snacks,20.92,85,18,17,355.64,2024-12,26
+2024-12-09,Galaxy Milk Chocolate Bar 100 g,confectionery,14.51,76,20,12,174.12,2024-12,46
+2024-12-09,Ferrero Rocher T3 37.5 g,confectionery,47.06,79,5,6,282.36,2024-12,37
+2024-12-09,Cadbury Dairy Milk 200 g,confectionery,12.21,30,8,16,195.36,2024-12,28
+2024-12-09,Sprite Soft Drink 1.5 L,beverages,29.3,23,20,15,439.5,2024-12,35
+2024-12-09,Coca-Cola Soft Drink 1.5 L,beverages,23.46,63,19,5,117.3,2024-12,30
+2024-12-09,Pepsi Soft Drink 1.5 L,beverages,32.46,93,10,13,421.98,2024-12,12
+2024-12-10,Royal Hills Mushrooms 400 g,canned food,36.0,93,16,13,468.0,2024-12,32
+2024-12-10,Amr Sweet Corn 400 Gm,canned food,41.98,69,5,6,251.88,2024-12,31
+2024-12-10,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,21.18,40,18,23,487.14,2024-12,49
+2024-12-10,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,44.37,92,9,5,221.85,2024-12,32
+2024-12-10,Royal Hills Boiled Chickpeas 400 g,canned food,29.12,65,10,10,291.2,2024-12,47
+2024-12-10,"Dobella minced garlic, 200 gm",canned food,36.94,54,16,24,886.56,2024-12,38
+2024-12-10,Nestle Evaporated Milk 170 g,dairy products,48.56,39,13,7,339.92,2024-12,11
+2024-12-10,Almarai Cheddar Cheese Slices,dairy products,24.16,76,9,13,314.08,2024-12,41
+2024-12-10,Puck Cream Cheese Spread,dairy products,10.4,64,19,13,135.2,2024-12,48
+2024-12-10,Lurpak Butter 500 g,dairy products,49.66,39,5,10,496.6,2024-12,11
+2024-12-10,Sadia Chicken Nuggets 1 Kg,frozen food,20.46,33,16,5,102.3,2024-12,37
+2024-12-10,Farm Frites French Fries 2.5 Kg,frozen food,43.94,76,16,21,922.74,2024-12,36
+2024-12-10,Green Giant Broccoli Florets 400 g,frozen food,23.27,26,19,14,325.78,2024-12,31
+2024-12-10,Oreo Original Biscuits 120 g,snacks,11.25,58,17,18,202.5,2024-12,10
+2024-12-10,Pringles Sour Cream & Onion 165 g,snacks,22.93,84,20,25,573.25,2024-12,19
+2024-12-10,Lay's Salted Potato Chips 200 g,snacks,44.22,15,13,8,353.76,2024-12,47
+2024-12-10,Galaxy Milk Chocolate Bar 100 g,confectionery,25.36,36,10,15,380.4,2024-12,12
+2024-12-10,Ferrero Rocher T3 37.5 g,confectionery,30.13,97,20,19,572.47,2024-12,45
+2024-12-10,Cadbury Dairy Milk 200 g,confectionery,36.4,22,6,8,291.2,2024-12,27
+2024-12-10,Sprite Soft Drink 1.5 L,beverages,19.59,79,14,19,372.21,2024-12,16
+2024-12-10,Coca-Cola Soft Drink 1.5 L,beverages,43.48,80,5,22,956.56,2024-12,20
+2024-12-10,Pepsi Soft Drink 1.5 L,beverages,37.54,58,5,10,375.4,2024-12,20
+2024-12-11,Royal Hills Mushrooms 400 g,canned food,18.0,46,9,16,288.0,2024-12,36
+2024-12-11,Amr Sweet Corn 400 Gm,canned food,14.36,52,5,7,100.52,2024-12,45
+2024-12-11,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,49.56,27,5,11,545.16,2024-12,37
+2024-12-11,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,30.79,39,17,22,677.38,2024-12,12
+2024-12-11,Royal Hills Boiled Chickpeas 400 g,canned food,28.63,16,5,24,687.12,2024-12,40
+2024-12-11,"Dobella minced garlic, 200 gm",canned food,40.85,54,19,8,326.8,2024-12,33
+2024-12-11,Nestle Evaporated Milk 170 g,dairy products,38.33,15,9,10,383.3,2024-12,39
+2024-12-11,Almarai Cheddar Cheese Slices,dairy products,44.89,84,20,16,718.24,2024-12,46
+2024-12-11,Puck Cream Cheese Spread,dairy products,15.93,44,13,15,238.95,2024-12,48
+2024-12-11,Lurpak Butter 500 g,dairy products,46.52,98,19,19,883.88,2024-12,26
+2024-12-11,Sadia Chicken Nuggets 1 Kg,frozen food,29.74,33,16,8,237.92,2024-12,10
+2024-12-11,Farm Frites French Fries 2.5 Kg,frozen food,24.88,59,9,11,273.68,2024-12,30
+2024-12-11,Green Giant Broccoli Florets 400 g,frozen food,41.4,38,6,8,331.2,2024-12,33
+2024-12-11,Oreo Original Biscuits 120 g,snacks,43.04,59,6,16,688.64,2024-12,24
+2024-12-11,Pringles Sour Cream & Onion 165 g,snacks,37.78,62,18,6,226.68,2024-12,23
+2024-12-11,Lay's Salted Potato Chips 200 g,snacks,20.76,30,19,22,456.72,2024-12,45
+2024-12-11,Galaxy Milk Chocolate Bar 100 g,confectionery,16.56,57,5,18,298.08,2024-12,32
+2024-12-11,Ferrero Rocher T3 37.5 g,confectionery,47.11,81,18,7,329.77,2024-12,24
+2024-12-11,Cadbury Dairy Milk 200 g,confectionery,42.94,67,14,21,901.74,2024-12,30
+2024-12-11,Sprite Soft Drink 1.5 L,beverages,18.97,70,12,22,417.34,2024-12,44
+2024-12-11,Coca-Cola Soft Drink 1.5 L,beverages,30.71,33,12,24,737.04,2024-12,35
+2024-12-11,Pepsi Soft Drink 1.5 L,beverages,17.18,29,15,23,395.14,2024-12,32
+2024-12-12,Royal Hills Mushrooms 400 g,canned food,15.13,48,16,9,136.17,2024-12,43
+2024-12-12,Amr Sweet Corn 400 Gm,canned food,42.4,27,5,12,508.8,2024-12,45
+2024-12-12,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,19.24,23,9,16,307.84,2024-12,11
+2024-12-12,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,32.37,85,12,19,615.03,2024-12,42
+2024-12-12,Royal Hills Boiled Chickpeas 400 g,canned food,44.88,59,20,19,852.72,2024-12,17
+2024-12-12,"Dobella minced garlic, 200 gm",canned food,32.9,37,11,19,625.1,2024-12,45
+2024-12-12,Nestle Evaporated Milk 170 g,dairy products,33.68,88,12,9,303.12,2024-12,50
+2024-12-12,Almarai Cheddar Cheese Slices,dairy products,44.22,92,9,7,309.54,2024-12,33
+2024-12-12,Puck Cream Cheese Spread,dairy products,34.82,77,20,22,766.04,2024-12,47
+2024-12-12,Lurpak Butter 500 g,dairy products,19.72,83,14,7,138.04,2024-12,37
+2024-12-12,Sadia Chicken Nuggets 1 Kg,frozen food,17.3,11,7,22,380.6,2024-12,10
+2024-12-12,Farm Frites French Fries 2.5 Kg,frozen food,45.2,13,18,21,949.2,2024-12,30
+2024-12-12,Green Giant Broccoli Florets 400 g,frozen food,40.19,63,17,20,803.8,2024-12,50
+2024-12-12,Oreo Original Biscuits 120 g,snacks,20.12,61,12,23,462.76,2024-12,16
+2024-12-12,Pringles Sour Cream & Onion 165 g,snacks,17.08,13,18,18,307.44,2024-12,18
+2024-12-12,Lay's Salted Potato Chips 200 g,snacks,30.71,22,15,8,245.68,2024-12,18
+2024-12-12,Galaxy Milk Chocolate Bar 100 g,confectionery,27.95,81,16,22,614.9,2024-12,11
+2024-12-12,Ferrero Rocher T3 37.5 g,confectionery,22.3,79,16,12,267.6,2024-12,40
+2024-12-12,Cadbury Dairy Milk 200 g,confectionery,12.19,72,15,18,219.42,2024-12,22
+2024-12-12,Sprite Soft Drink 1.5 L,beverages,32.83,93,11,24,787.92,2024-12,20
+2024-12-12,Coca-Cola Soft Drink 1.5 L,beverages,36.4,50,9,5,182.0,2024-12,11
+2024-12-12,Pepsi Soft Drink 1.5 L,beverages,25.19,79,10,11,277.09,2024-12,33
+2024-12-13,Royal Hills Mushrooms 400 g,canned food,46.54,65,6,8,372.32,2024-12,20
+2024-12-13,Amr Sweet Corn 400 Gm,canned food,17.36,38,17,8,138.88,2024-12,45
+2024-12-13,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,13.48,92,12,13,175.24,2024-12,28
+2024-12-13,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,11.43,96,15,5,57.15,2024-12,41
+2024-12-13,Royal Hills Boiled Chickpeas 400 g,canned food,40.82,98,17,5,204.1,2024-12,37
+2024-12-13,"Dobella minced garlic, 200 gm",canned food,31.08,57,9,7,217.56,2024-12,28
+2024-12-13,Nestle Evaporated Milk 170 g,dairy products,36.45,75,19,21,765.45,2024-12,35
+2024-12-13,Almarai Cheddar Cheese Slices,dairy products,42.92,91,13,18,772.56,2024-12,44
+2024-12-13,Puck Cream Cheese Spread,dairy products,14.29,37,6,25,357.25,2024-12,40
+2024-12-13,Lurpak Butter 500 g,dairy products,28.78,22,6,13,374.14,2024-12,48
+2024-12-13,Sadia Chicken Nuggets 1 Kg,frozen food,32.66,89,5,20,653.2,2024-12,46
+2024-12-13,Farm Frites French Fries 2.5 Kg,frozen food,38.91,99,19,18,700.38,2024-12,44
+2024-12-13,Green Giant Broccoli Florets 400 g,frozen food,15.67,33,5,22,344.74,2024-12,50
+2024-12-13,Oreo Original Biscuits 120 g,snacks,10.97,38,10,25,274.25,2024-12,33
+2024-12-13,Pringles Sour Cream & Onion 165 g,snacks,38.55,65,19,24,925.2,2024-12,11
+2024-12-13,Lay's Salted Potato Chips 200 g,snacks,16.82,88,19,23,386.86,2024-12,37
+2024-12-13,Galaxy Milk Chocolate Bar 100 g,confectionery,48.89,56,17,17,831.13,2024-12,37
+2024-12-13,Ferrero Rocher T3 37.5 g,confectionery,20.24,37,16,7,141.68,2024-12,33
+2024-12-13,Cadbury Dairy Milk 200 g,confectionery,21.4,23,13,16,342.4,2024-12,24
+2024-12-13,Sprite Soft Drink 1.5 L,beverages,29.86,77,5,19,567.34,2024-12,26
+2024-12-13,Coca-Cola Soft Drink 1.5 L,beverages,11.06,39,7,24,265.44,2024-12,10
+2024-12-13,Pepsi Soft Drink 1.5 L,beverages,39.29,85,13,8,314.32,2024-12,30
+2024-12-14,Royal Hills Mushrooms 400 g,canned food,49.05,61,13,25,1226.25,2024-12,11
+2024-12-14,Amr Sweet Corn 400 Gm,canned food,12.7,80,20,19,241.3,2024-12,41
+2024-12-14,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,34.13,46,10,13,443.69,2024-12,45
+2024-12-14,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,46.67,34,19,22,1026.74,2024-12,23
+2024-12-14,Royal Hills Boiled Chickpeas 400 g,canned food,18.78,21,19,18,338.04,2024-12,43
+2024-12-14,"Dobella minced garlic, 200 gm",canned food,42.38,19,6,12,508.56,2024-12,12
+2024-12-14,Nestle Evaporated Milk 170 g,dairy products,17.25,35,19,8,138.0,2024-12,10
+2024-12-14,Almarai Cheddar Cheese Slices,dairy products,46.91,10,12,14,656.74,2024-12,44
+2024-12-14,Puck Cream Cheese Spread,dairy products,49.14,64,17,18,884.52,2024-12,35
+2024-12-14,Lurpak Butter 500 g,dairy products,21.81,56,19,10,218.1,2024-12,10
+2024-12-14,Sadia Chicken Nuggets 1 Kg,frozen food,19.4,13,11,10,194.0,2024-12,19
+2024-12-14,Farm Frites French Fries 2.5 Kg,frozen food,35.23,37,20,18,634.14,2024-12,12
+2024-12-14,Green Giant Broccoli Florets 400 g,frozen food,47.9,41,19,18,862.2,2024-12,45
+2024-12-14,Oreo Original Biscuits 120 g,snacks,29.71,68,9,14,415.94,2024-12,18
+2024-12-14,Pringles Sour Cream & Onion 165 g,snacks,30.29,65,13,22,666.38,2024-12,28
+2024-12-14,Lay's Salted Potato Chips 200 g,snacks,25.54,37,17,20,510.8,2024-12,32
+2024-12-14,Galaxy Milk Chocolate Bar 100 g,confectionery,21.65,70,16,18,389.7,2024-12,12
+2024-12-14,Ferrero Rocher T3 37.5 g,confectionery,24.17,90,16,10,241.7,2024-12,49
+2024-12-14,Cadbury Dairy Milk 200 g,confectionery,22.14,35,8,14,309.96,2024-12,17
+2024-12-14,Sprite Soft Drink 1.5 L,beverages,16.49,22,18,24,395.76,2024-12,46
+2024-12-14,Coca-Cola Soft Drink 1.5 L,beverages,33.88,50,8,19,643.72,2024-12,30
+2024-12-14,Pepsi Soft Drink 1.5 L,beverages,29.68,26,19,7,207.76,2024-12,34
+2024-12-15,Royal Hills Mushrooms 400 g,canned food,42.46,72,7,21,891.66,2024-12,47
+2024-12-15,Amr Sweet Corn 400 Gm,canned food,30.56,76,8,7,213.92,2024-12,37
+2024-12-15,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,22.69,57,17,14,317.66,2024-12,19
+2024-12-15,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,25.82,26,16,14,361.48,2024-12,48
+2024-12-15,Royal Hills Boiled Chickpeas 400 g,canned food,37.38,54,10,18,672.84,2024-12,38
+2024-12-15,"Dobella minced garlic, 200 gm",canned food,48.57,89,11,22,1068.54,2024-12,38
+2024-12-15,Nestle Evaporated Milk 170 g,dairy products,47.93,95,14,7,335.51,2024-12,49
+2024-12-15,Almarai Cheddar Cheese Slices,dairy products,40.52,74,20,20,810.4,2024-12,14
+2024-12-15,Puck Cream Cheese Spread,dairy products,25.28,91,9,15,379.2,2024-12,23
+2024-12-15,Lurpak Butter 500 g,dairy products,29.24,68,11,10,292.4,2024-12,15
+2024-12-15,Sadia Chicken Nuggets 1 Kg,frozen food,21.08,18,18,23,484.84,2024-12,28
+2024-12-15,Farm Frites French Fries 2.5 Kg,frozen food,33.01,41,5,9,297.09,2024-12,23
+2024-12-15,Green Giant Broccoli Florets 400 g,frozen food,22.71,56,11,18,408.78,2024-12,19
+2024-12-15,Oreo Original Biscuits 120 g,snacks,42.25,24,8,14,591.5,2024-12,19
+2024-12-15,Pringles Sour Cream & Onion 165 g,snacks,47.41,80,15,6,284.46,2024-12,30
+2024-12-15,Lay's Salted Potato Chips 200 g,snacks,38.18,28,9,18,687.24,2024-12,33
+2024-12-15,Galaxy Milk Chocolate Bar 100 g,confectionery,18.42,57,9,15,276.3,2024-12,14
+2024-12-15,Ferrero Rocher T3 37.5 g,confectionery,33.75,11,15,25,843.75,2024-12,17
+2024-12-15,Cadbury Dairy Milk 200 g,confectionery,19.24,97,10,14,269.36,2024-12,19
+2024-12-15,Sprite Soft Drink 1.5 L,beverages,49.39,86,9,5,246.95,2024-12,50
+2024-12-15,Coca-Cola Soft Drink 1.5 L,beverages,11.46,67,14,17,194.82,2024-12,22
+2024-12-15,Pepsi Soft Drink 1.5 L,beverages,21.11,48,5,6,126.66,2024-12,28
+2024-12-16,Royal Hills Mushrooms 400 g,canned food,47.77,25,10,10,477.7,2024-12,13
+2024-12-16,Amr Sweet Corn 400 Gm,canned food,17.54,33,6,18,315.72,2024-12,29
+2024-12-16,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,44.68,17,18,12,536.16,2024-12,16
+2024-12-16,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,21.17,32,5,17,359.89,2024-12,23
+2024-12-16,Royal Hills Boiled Chickpeas 400 g,canned food,25.43,54,14,20,508.6,2024-12,25
+2024-12-16,"Dobella minced garlic, 200 gm",canned food,47.03,78,15,23,1081.69,2024-12,48
+2024-12-16,Nestle Evaporated Milk 170 g,dairy products,39.39,74,16,17,669.63,2024-12,27
+2024-12-16,Almarai Cheddar Cheese Slices,dairy products,11.96,67,19,22,263.12,2024-12,10
+2024-12-16,Puck Cream Cheese Spread,dairy products,32.9,63,17,21,690.9,2024-12,18
+2024-12-16,Lurpak Butter 500 g,dairy products,18.56,81,16,11,204.16,2024-12,27
+2024-12-16,Sadia Chicken Nuggets 1 Kg,frozen food,10.04,63,10,15,150.6,2024-12,48
+2024-12-16,Farm Frites French Fries 2.5 Kg,frozen food,12.0,62,13,20,240.0,2024-12,28
+2024-12-16,Green Giant Broccoli Florets 400 g,frozen food,48.39,21,6,17,822.63,2024-12,14
+2024-12-16,Oreo Original Biscuits 120 g,snacks,39.02,78,20,25,975.5,2024-12,44
+2024-12-16,Pringles Sour Cream & Onion 165 g,snacks,31.71,78,13,13,412.23,2024-12,46
+2024-12-16,Lay's Salted Potato Chips 200 g,snacks,28.13,99,14,13,365.69,2024-12,37
+2024-12-16,Galaxy Milk Chocolate Bar 100 g,confectionery,43.36,31,5,19,823.84,2024-12,45
+2024-12-16,Ferrero Rocher T3 37.5 g,confectionery,29.6,97,17,6,177.6,2024-12,50
+2024-12-16,Cadbury Dairy Milk 200 g,confectionery,29.25,25,16,6,175.5,2024-12,42
+2024-12-16,Sprite Soft Drink 1.5 L,beverages,28.37,58,16,16,453.92,2024-12,50
+2024-12-16,Coca-Cola Soft Drink 1.5 L,beverages,36.83,63,6,23,847.09,2024-12,19
+2024-12-16,Pepsi Soft Drink 1.5 L,beverages,23.68,91,15,24,568.32,2024-12,44
+2024-12-17,Royal Hills Mushrooms 400 g,canned food,32.52,42,19,17,552.84,2024-12,14
+2024-12-17,Amr Sweet Corn 400 Gm,canned food,19.36,26,19,8,154.88,2024-12,50
+2024-12-17,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,21.81,63,12,13,283.53,2024-12,17
+2024-12-17,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,30.22,30,8,17,513.74,2024-12,47
+2024-12-17,Royal Hills Boiled Chickpeas 400 g,canned food,11.64,47,14,24,279.36,2024-12,30
+2024-12-17,"Dobella minced garlic, 200 gm",canned food,19.78,94,20,16,316.48,2024-12,44
+2024-12-17,Nestle Evaporated Milk 170 g,dairy products,49.45,37,13,14,692.3,2024-12,24
+2024-12-17,Almarai Cheddar Cheese Slices,dairy products,42.7,94,13,24,1024.8,2024-12,12
+2024-12-17,Puck Cream Cheese Spread,dairy products,44.11,38,19,14,617.54,2024-12,42
+2024-12-17,Lurpak Butter 500 g,dairy products,10.96,38,18,8,87.68,2024-12,14
+2024-12-17,Sadia Chicken Nuggets 1 Kg,frozen food,22.48,74,6,23,517.04,2024-12,46
+2024-12-17,Farm Frites French Fries 2.5 Kg,frozen food,24.98,48,7,14,349.72,2024-12,21
+2024-12-17,Green Giant Broccoli Florets 400 g,frozen food,45.19,88,17,6,271.14,2024-12,43
+2024-12-17,Oreo Original Biscuits 120 g,snacks,42.48,63,11,8,339.84,2024-12,46
+2024-12-17,Pringles Sour Cream & Onion 165 g,snacks,26.27,96,9,13,341.51,2024-12,21
+2024-12-17,Lay's Salted Potato Chips 200 g,snacks,10.75,100,19,25,268.75,2024-12,13
+2024-12-17,Galaxy Milk Chocolate Bar 100 g,confectionery,38.43,75,9,11,422.73,2024-12,27
+2024-12-17,Ferrero Rocher T3 37.5 g,confectionery,20.24,22,10,16,323.84,2024-12,13
+2024-12-17,Cadbury Dairy Milk 200 g,confectionery,12.65,11,8,10,126.5,2024-12,17
+2024-12-17,Sprite Soft Drink 1.5 L,beverages,41.76,47,13,21,876.96,2024-12,12
+2024-12-17,Coca-Cola Soft Drink 1.5 L,beverages,38.92,62,14,6,233.52,2024-12,13
+2024-12-17,Pepsi Soft Drink 1.5 L,beverages,20.48,68,20,13,266.24,2024-12,41
+2024-12-18,Royal Hills Mushrooms 400 g,canned food,25.64,33,19,17,435.88,2024-12,36
+2024-12-18,Amr Sweet Corn 400 Gm,canned food,32.87,67,13,24,788.88,2024-12,34
+2024-12-18,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,41.06,27,11,10,410.6,2024-12,32
+2024-12-18,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,22.81,94,5,22,501.82,2024-12,25
+2024-12-18,Royal Hills Boiled Chickpeas 400 g,canned food,43.93,79,10,25,1098.25,2024-12,34
+2024-12-18,"Dobella minced garlic, 200 gm",canned food,36.2,22,13,8,289.6,2024-12,12
+2024-12-18,Nestle Evaporated Milk 170 g,dairy products,40.64,37,16,13,528.32,2024-12,12
+2024-12-18,Almarai Cheddar Cheese Slices,dairy products,25.38,17,9,10,253.8,2024-12,39
+2024-12-18,Puck Cream Cheese Spread,dairy products,25.83,87,8,20,516.6,2024-12,11
+2024-12-18,Lurpak Butter 500 g,dairy products,36.26,87,8,23,833.98,2024-12,40
+2024-12-18,Sadia Chicken Nuggets 1 Kg,frozen food,32.49,51,15,5,162.45,2024-12,23
+2024-12-18,Farm Frites French Fries 2.5 Kg,frozen food,13.07,89,20,11,143.77,2024-12,40
+2024-12-18,Green Giant Broccoli Florets 400 g,frozen food,20.29,39,5,24,486.96,2024-12,46
+2024-12-18,Oreo Original Biscuits 120 g,snacks,40.3,77,14,9,362.7,2024-12,12
+2024-12-18,Pringles Sour Cream & Onion 165 g,snacks,13.18,29,15,13,171.34,2024-12,11
+2024-12-18,Lay's Salted Potato Chips 200 g,snacks,36.08,45,7,20,721.6,2024-12,45
+2024-12-18,Galaxy Milk Chocolate Bar 100 g,confectionery,29.79,44,16,25,744.75,2024-12,46
+2024-12-18,Ferrero Rocher T3 37.5 g,confectionery,21.41,31,10,24,513.84,2024-12,24
+2024-12-18,Cadbury Dairy Milk 200 g,confectionery,40.12,59,18,23,922.76,2024-12,16
+2024-12-18,Sprite Soft Drink 1.5 L,beverages,36.31,89,14,12,435.72,2024-12,11
+2024-12-18,Coca-Cola Soft Drink 1.5 L,beverages,33.48,68,8,21,703.08,2024-12,47
+2024-12-18,Pepsi Soft Drink 1.5 L,beverages,44.84,34,15,18,807.12,2024-12,14
+2024-12-19,Royal Hills Mushrooms 400 g,canned food,29.17,18,15,9,262.53,2024-12,23
+2024-12-19,Amr Sweet Corn 400 Gm,canned food,29.93,27,16,11,329.23,2024-12,11
+2024-12-19,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,13.43,92,16,18,241.74,2024-12,27
+2024-12-19,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,15.2,11,8,6,91.2,2024-12,45
+2024-12-19,Royal Hills Boiled Chickpeas 400 g,canned food,12.55,90,6,12,150.6,2024-12,41
+2024-12-19,"Dobella minced garlic, 200 gm",canned food,33.97,21,7,18,611.46,2024-12,19
+2024-12-19,Nestle Evaporated Milk 170 g,dairy products,48.95,86,12,5,244.75,2024-12,21
+2024-12-19,Almarai Cheddar Cheese Slices,dairy products,17.98,60,14,18,323.64,2024-12,39
+2024-12-19,Puck Cream Cheese Spread,dairy products,46.62,54,5,8,372.96,2024-12,35
+2024-12-19,Lurpak Butter 500 g,dairy products,43.02,69,19,25,1075.5,2024-12,48
+2024-12-19,Sadia Chicken Nuggets 1 Kg,frozen food,13.51,27,8,6,81.06,2024-12,45
+2024-12-19,Farm Frites French Fries 2.5 Kg,frozen food,25.76,98,15,16,412.16,2024-12,22
+2024-12-19,Green Giant Broccoli Florets 400 g,frozen food,48.25,58,15,11,530.75,2024-12,12
+2024-12-19,Oreo Original Biscuits 120 g,snacks,30.05,65,9,10,300.5,2024-12,31
+2024-12-19,Pringles Sour Cream & Onion 165 g,snacks,47.12,20,12,16,753.92,2024-12,10
+2024-12-19,Lay's Salted Potato Chips 200 g,snacks,17.93,18,17,22,394.46,2024-12,39
+2024-12-19,Galaxy Milk Chocolate Bar 100 g,confectionery,14.37,80,6,6,86.22,2024-12,27
+2024-12-19,Ferrero Rocher T3 37.5 g,confectionery,29.73,75,5,21,624.33,2024-12,44
+2024-12-19,Cadbury Dairy Milk 200 g,confectionery,16.69,76,18,14,233.66,2024-12,34
+2024-12-19,Sprite Soft Drink 1.5 L,beverages,33.7,64,12,7,235.9,2024-12,29
+2024-12-19,Coca-Cola Soft Drink 1.5 L,beverages,25.91,22,18,7,181.37,2024-12,22
+2024-12-19,Pepsi Soft Drink 1.5 L,beverages,41.7,45,7,9,375.3,2024-12,11
+2024-12-20,Royal Hills Mushrooms 400 g,canned food,30.47,84,18,9,274.23,2024-12,42
+2024-12-20,Amr Sweet Corn 400 Gm,canned food,24.46,89,15,5,122.3,2024-12,45
+2024-12-20,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,35.22,24,7,9,316.98,2024-12,41
+2024-12-20,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,24.44,33,9,24,586.56,2024-12,47
+2024-12-20,Royal Hills Boiled Chickpeas 400 g,canned food,15.57,28,8,16,249.12,2024-12,15
+2024-12-20,"Dobella minced garlic, 200 gm",canned food,10.72,28,16,7,75.04,2024-12,25
+2024-12-20,Nestle Evaporated Milk 170 g,dairy products,13.0,25,12,8,104.0,2024-12,48
+2024-12-20,Almarai Cheddar Cheese Slices,dairy products,19.3,66,20,5,96.5,2024-12,27
+2024-12-20,Puck Cream Cheese Spread,dairy products,35.52,56,16,17,603.84,2024-12,18
+2024-12-20,Lurpak Butter 500 g,dairy products,27.41,94,15,25,685.25,2024-12,10
+2024-12-20,Sadia Chicken Nuggets 1 Kg,frozen food,14.57,59,10,15,218.55,2024-12,42
+2024-12-20,Farm Frites French Fries 2.5 Kg,frozen food,37.29,35,5,24,894.96,2024-12,44
+2024-12-20,Green Giant Broccoli Florets 400 g,frozen food,49.77,31,10,9,447.93,2024-12,49
+2024-12-20,Oreo Original Biscuits 120 g,snacks,29.97,18,18,23,689.31,2024-12,21
+2024-12-20,Pringles Sour Cream & Onion 165 g,snacks,39.09,69,13,25,977.25,2024-12,22
+2024-12-20,Lay's Salted Potato Chips 200 g,snacks,26.48,44,11,11,291.28,2024-12,22
+2024-12-20,Galaxy Milk Chocolate Bar 100 g,confectionery,17.03,62,20,14,238.42,2024-12,21
+2024-12-20,Ferrero Rocher T3 37.5 g,confectionery,23.3,64,16,20,466.0,2024-12,31
+2024-12-20,Cadbury Dairy Milk 200 g,confectionery,41.67,14,18,14,583.38,2024-12,37
+2024-12-20,Sprite Soft Drink 1.5 L,beverages,37.79,84,6,13,491.27,2024-12,43
+2024-12-20,Coca-Cola Soft Drink 1.5 L,beverages,24.86,28,12,25,621.5,2024-12,22
+2024-12-20,Pepsi Soft Drink 1.5 L,beverages,22.28,84,11,18,401.04,2024-12,47
+2024-12-21,Royal Hills Mushrooms 400 g,canned food,44.84,61,12,16,717.44,2024-12,49
+2024-12-21,Amr Sweet Corn 400 Gm,canned food,45.68,52,5,22,1004.96,2024-12,32
+2024-12-21,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,35.69,49,15,9,321.21,2024-12,44
+2024-12-21,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,30.68,15,9,6,184.08,2024-12,40
+2024-12-21,Royal Hills Boiled Chickpeas 400 g,canned food,38.85,88,19,7,271.95,2024-12,49
+2024-12-21,"Dobella minced garlic, 200 gm",canned food,27.79,89,10,12,333.48,2024-12,33
+2024-12-21,Nestle Evaporated Milk 170 g,dairy products,14.79,54,13,21,310.59,2024-12,37
+2024-12-21,Almarai Cheddar Cheese Slices,dairy products,19.32,15,15,11,212.52,2024-12,33
+2024-12-21,Puck Cream Cheese Spread,dairy products,39.77,57,10,5,198.85,2024-12,23
+2024-12-21,Lurpak Butter 500 g,dairy products,21.86,45,19,14,306.04,2024-12,44
+2024-12-21,Sadia Chicken Nuggets 1 Kg,frozen food,28.49,59,13,18,512.82,2024-12,33
+2024-12-21,Farm Frites French Fries 2.5 Kg,frozen food,30.14,69,8,15,452.1,2024-12,38
+2024-12-21,Green Giant Broccoli Florets 400 g,frozen food,13.48,35,16,19,256.12,2024-12,31
+2024-12-21,Oreo Original Biscuits 120 g,snacks,15.77,40,15,8,126.16,2024-12,32
+2024-12-21,Pringles Sour Cream & Onion 165 g,snacks,20.51,14,11,6,123.06,2024-12,46
+2024-12-21,Lay's Salted Potato Chips 200 g,snacks,13.26,69,17,21,278.46,2024-12,39
+2024-12-21,Galaxy Milk Chocolate Bar 100 g,confectionery,29.63,67,14,20,592.6,2024-12,27
+2024-12-21,Ferrero Rocher T3 37.5 g,confectionery,31.0,38,12,19,589.0,2024-12,11
+2024-12-21,Cadbury Dairy Milk 200 g,confectionery,19.13,37,18,18,344.34,2024-12,39
+2024-12-21,Sprite Soft Drink 1.5 L,beverages,26.14,95,16,19,496.66,2024-12,45
+2024-12-21,Coca-Cola Soft Drink 1.5 L,beverages,18.58,38,9,5,92.9,2024-12,11
+2024-12-21,Pepsi Soft Drink 1.5 L,beverages,20.56,31,18,22,452.32,2024-12,17
+2024-12-22,Royal Hills Mushrooms 400 g,canned food,42.09,85,12,14,589.26,2024-12,23
+2024-12-22,Amr Sweet Corn 400 Gm,canned food,26.46,39,13,21,555.66,2024-12,10
+2024-12-22,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,41.41,11,15,23,952.43,2024-12,10
+2024-12-22,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,27.97,12,10,22,615.34,2024-12,48
+2024-12-22,Royal Hills Boiled Chickpeas 400 g,canned food,22.32,17,5,15,334.8,2024-12,19
+2024-12-22,"Dobella minced garlic, 200 gm",canned food,24.41,59,8,8,195.28,2024-12,40
+2024-12-22,Nestle Evaporated Milk 170 g,dairy products,22.18,92,6,19,421.42,2024-12,17
+2024-12-22,Almarai Cheddar Cheese Slices,dairy products,34.65,19,7,11,381.15,2024-12,26
+2024-12-22,Puck Cream Cheese Spread,dairy products,26.37,10,11,9,237.33,2024-12,43
+2024-12-22,Lurpak Butter 500 g,dairy products,32.47,77,7,11,357.17,2024-12,28
+2024-12-22,Sadia Chicken Nuggets 1 Kg,frozen food,37.64,43,15,12,451.68,2024-12,38
+2024-12-22,Farm Frites French Fries 2.5 Kg,frozen food,12.57,90,8,15,188.55,2024-12,34
+2024-12-22,Green Giant Broccoli Florets 400 g,frozen food,34.13,48,17,23,784.99,2024-12,23
+2024-12-22,Oreo Original Biscuits 120 g,snacks,32.78,34,10,23,753.94,2024-12,49
+2024-12-22,Pringles Sour Cream & Onion 165 g,snacks,27.51,78,19,5,137.55,2024-12,12
+2024-12-22,Lay's Salted Potato Chips 200 g,snacks,25.31,26,10,10,253.1,2024-12,32
+2024-12-22,Galaxy Milk Chocolate Bar 100 g,confectionery,26.6,21,11,8,212.8,2024-12,13
+2024-12-22,Ferrero Rocher T3 37.5 g,confectionery,42.2,67,7,8,337.6,2024-12,47
+2024-12-22,Cadbury Dairy Milk 200 g,confectionery,48.69,59,19,8,389.52,2024-12,50
+2024-12-22,Sprite Soft Drink 1.5 L,beverages,43.25,27,6,24,1038.0,2024-12,49
+2024-12-22,Coca-Cola Soft Drink 1.5 L,beverages,32.73,79,17,13,425.49,2024-12,33
+2024-12-22,Pepsi Soft Drink 1.5 L,beverages,14.2,42,7,18,255.6,2024-12,32
+2024-12-23,Royal Hills Mushrooms 400 g,canned food,15.0,52,9,25,375.0,2024-12,40
+2024-12-23,Amr Sweet Corn 400 Gm,canned food,44.63,76,15,10,446.3,2024-12,30
+2024-12-23,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,43.61,28,19,14,610.54,2024-12,30
+2024-12-23,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,24.39,94,8,12,292.68,2024-12,26
+2024-12-23,Royal Hills Boiled Chickpeas 400 g,canned food,48.59,19,19,9,437.31,2024-12,28
+2024-12-23,"Dobella minced garlic, 200 gm",canned food,41.59,50,11,16,665.44,2024-12,21
+2024-12-23,Nestle Evaporated Milk 170 g,dairy products,20.18,23,14,19,383.42,2024-12,17
+2024-12-23,Almarai Cheddar Cheese Slices,dairy products,39.25,90,20,9,353.25,2024-12,22
+2024-12-23,Puck Cream Cheese Spread,dairy products,15.16,38,14,22,333.52,2024-12,39
+2024-12-23,Lurpak Butter 500 g,dairy products,14.69,76,19,23,337.87,2024-12,49
+2024-12-23,Sadia Chicken Nuggets 1 Kg,frozen food,44.75,63,20,6,268.5,2024-12,22
+2024-12-23,Farm Frites French Fries 2.5 Kg,frozen food,36.88,43,16,23,848.24,2024-12,30
+2024-12-23,Green Giant Broccoli Florets 400 g,frozen food,21.18,42,7,17,360.06,2024-12,36
+2024-12-23,Oreo Original Biscuits 120 g,snacks,43.17,73,13,24,1036.08,2024-12,47
+2024-12-23,Pringles Sour Cream & Onion 165 g,snacks,35.73,29,11,17,607.41,2024-12,39
+2024-12-23,Lay's Salted Potato Chips 200 g,snacks,25.22,43,19,22,554.84,2024-12,50
+2024-12-23,Galaxy Milk Chocolate Bar 100 g,confectionery,44.57,74,6,5,222.85,2024-12,21
+2024-12-23,Ferrero Rocher T3 37.5 g,confectionery,34.32,93,17,24,823.68,2024-12,24
+2024-12-23,Cadbury Dairy Milk 200 g,confectionery,37.9,93,11,5,189.5,2024-12,45
+2024-12-23,Sprite Soft Drink 1.5 L,beverages,25.93,27,11,14,363.02,2024-12,28
+2024-12-23,Coca-Cola Soft Drink 1.5 L,beverages,38.67,47,10,10,386.7,2024-12,34
+2024-12-23,Pepsi Soft Drink 1.5 L,beverages,24.66,54,14,18,443.88,2024-12,28
+2024-12-24,Royal Hills Mushrooms 400 g,canned food,21.62,66,7,24,518.88,2024-12,29
+2024-12-24,Amr Sweet Corn 400 Gm,canned food,31.98,28,19,22,703.56,2024-12,39
+2024-12-24,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,13.8,63,17,16,220.8,2024-12,19
+2024-12-24,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,43.76,63,12,6,262.56,2024-12,49
+2024-12-24,Royal Hills Boiled Chickpeas 400 g,canned food,31.73,60,15,9,285.57,2024-12,13
+2024-12-24,"Dobella minced garlic, 200 gm",canned food,28.24,33,8,11,310.64,2024-12,32
+2024-12-24,Nestle Evaporated Milk 170 g,dairy products,46.17,82,6,9,415.53,2024-12,21
+2024-12-24,Almarai Cheddar Cheese Slices,dairy products,32.33,70,16,20,646.6,2024-12,49
+2024-12-24,Puck Cream Cheese Spread,dairy products,41.3,10,18,23,949.9,2024-12,13
+2024-12-24,Lurpak Butter 500 g,dairy products,11.64,22,10,12,139.68,2024-12,39
+2024-12-24,Sadia Chicken Nuggets 1 Kg,frozen food,32.77,37,6,24,786.48,2024-12,41
+2024-12-24,Farm Frites French Fries 2.5 Kg,frozen food,15.88,38,20,12,190.56,2024-12,15
+2024-12-24,Green Giant Broccoli Florets 400 g,frozen food,12.39,52,12,17,210.63,2024-12,37
+2024-12-24,Oreo Original Biscuits 120 g,snacks,17.38,96,18,19,330.22,2024-12,32
+2024-12-24,Pringles Sour Cream & Onion 165 g,snacks,10.37,53,12,13,134.81,2024-12,20
+2024-12-24,Lay's Salted Potato Chips 200 g,snacks,15.9,100,15,5,79.5,2024-12,49
+2024-12-24,Galaxy Milk Chocolate Bar 100 g,confectionery,28.45,42,6,20,569.0,2024-12,16
+2024-12-24,Ferrero Rocher T3 37.5 g,confectionery,39.88,89,9,24,957.12,2024-12,49
+2024-12-24,Cadbury Dairy Milk 200 g,confectionery,38.53,21,5,22,847.66,2024-12,38
+2024-12-24,Sprite Soft Drink 1.5 L,beverages,22.83,65,19,16,365.28,2024-12,38
+2024-12-24,Coca-Cola Soft Drink 1.5 L,beverages,34.25,95,5,8,274.0,2024-12,32
+2024-12-24,Pepsi Soft Drink 1.5 L,beverages,37.12,89,17,9,334.08,2024-12,48
+2024-12-25,Royal Hills Mushrooms 400 g,canned food,45.9,88,12,19,872.1,2024-12,28
+2024-12-25,Amr Sweet Corn 400 Gm,canned food,18.6,88,19,25,465.0,2024-12,34
+2024-12-25,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,23.49,51,16,15,352.35,2024-12,26
+2024-12-25,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,47.06,61,8,23,1082.38,2024-12,43
+2024-12-25,Royal Hills Boiled Chickpeas 400 g,canned food,35.54,65,6,10,355.4,2024-12,17
+2024-12-25,"Dobella minced garlic, 200 gm",canned food,15.97,73,14,8,127.76,2024-12,14
+2024-12-25,Nestle Evaporated Milk 170 g,dairy products,13.88,58,17,11,152.68,2024-12,19
+2024-12-25,Almarai Cheddar Cheese Slices,dairy products,36.96,27,12,20,739.2,2024-12,47
+2024-12-25,Puck Cream Cheese Spread,dairy products,41.46,67,15,14,580.44,2024-12,43
+2024-12-25,Lurpak Butter 500 g,dairy products,28.44,59,14,25,711.0,2024-12,15
+2024-12-25,Sadia Chicken Nuggets 1 Kg,frozen food,35.74,71,9,18,643.32,2024-12,11
+2024-12-25,Farm Frites French Fries 2.5 Kg,frozen food,24.17,95,10,18,435.06,2024-12,34
+2024-12-25,Green Giant Broccoli Florets 400 g,frozen food,17.6,68,7,16,281.6,2024-12,50
+2024-12-25,Oreo Original Biscuits 120 g,snacks,38.28,96,9,8,306.24,2024-12,20
+2024-12-25,Pringles Sour Cream & Onion 165 g,snacks,27.74,30,12,14,388.36,2024-12,28
+2024-12-25,Lay's Salted Potato Chips 200 g,snacks,28.98,86,5,25,724.5,2024-12,43
+2024-12-25,Galaxy Milk Chocolate Bar 100 g,confectionery,18.67,85,11,8,149.36,2024-12,49
+2024-12-25,Ferrero Rocher T3 37.5 g,confectionery,21.45,72,6,18,386.1,2024-12,23
+2024-12-25,Cadbury Dairy Milk 200 g,confectionery,44.58,80,13,18,802.44,2024-12,40
+2024-12-25,Sprite Soft Drink 1.5 L,beverages,36.42,85,17,24,874.08,2024-12,22
+2024-12-25,Coca-Cola Soft Drink 1.5 L,beverages,40.82,25,11,14,571.48,2024-12,29
+2024-12-25,Pepsi Soft Drink 1.5 L,beverages,16.45,62,8,5,82.25,2024-12,37
+2024-12-26,Royal Hills Mushrooms 400 g,canned food,34.97,81,13,18,629.46,2024-12,50
+2024-12-26,Amr Sweet Corn 400 Gm,canned food,24.31,13,13,21,510.51,2024-12,43
+2024-12-26,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,30.34,75,5,16,485.44,2024-12,44
+2024-12-26,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,39.36,76,16,21,826.56,2024-12,50
+2024-12-26,Royal Hills Boiled Chickpeas 400 g,canned food,48.02,42,10,16,768.32,2024-12,48
+2024-12-26,"Dobella minced garlic, 200 gm",canned food,14.1,63,7,22,310.2,2024-12,23
+2024-12-26,Nestle Evaporated Milk 170 g,dairy products,43.33,12,6,16,693.28,2024-12,47
+2024-12-26,Almarai Cheddar Cheese Slices,dairy products,43.6,91,20,15,654.0,2024-12,35
+2024-12-26,Puck Cream Cheese Spread,dairy products,34.69,99,9,9,312.21,2024-12,44
+2024-12-26,Lurpak Butter 500 g,dairy products,29.6,29,20,6,177.6,2024-12,47
+2024-12-26,Sadia Chicken Nuggets 1 Kg,frozen food,47.33,95,12,16,757.28,2024-12,46
+2024-12-26,Farm Frites French Fries 2.5 Kg,frozen food,21.83,41,10,8,174.64,2024-12,42
+2024-12-26,Green Giant Broccoli Florets 400 g,frozen food,40.02,59,12,22,880.44,2024-12,16
+2024-12-26,Oreo Original Biscuits 120 g,snacks,20.15,100,9,6,120.9,2024-12,26
+2024-12-26,Pringles Sour Cream & Onion 165 g,snacks,34.37,11,10,22,756.14,2024-12,30
+2024-12-26,Lay's Salted Potato Chips 200 g,snacks,19.69,38,14,21,413.49,2024-12,38
+2024-12-26,Galaxy Milk Chocolate Bar 100 g,confectionery,30.04,10,10,25,751.0,2024-12,38
+2024-12-26,Ferrero Rocher T3 37.5 g,confectionery,17.2,35,6,5,86.0,2024-12,50
+2024-12-26,Cadbury Dairy Milk 200 g,confectionery,37.85,58,11,18,681.3,2024-12,15
+2024-12-26,Sprite Soft Drink 1.5 L,beverages,14.12,55,6,23,324.76,2024-12,22
+2024-12-26,Coca-Cola Soft Drink 1.5 L,beverages,19.48,63,12,18,350.64,2024-12,36
+2024-12-26,Pepsi Soft Drink 1.5 L,beverages,37.62,75,18,14,526.68,2024-12,37
+2024-12-27,Royal Hills Mushrooms 400 g,canned food,23.15,52,20,11,254.65,2024-12,33
+2024-12-27,Amr Sweet Corn 400 Gm,canned food,44.62,93,12,21,937.02,2024-12,26
+2024-12-27,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,14.66,97,16,10,146.6,2024-12,40
+2024-12-27,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,13.07,56,15,5,65.35,2024-12,41
+2024-12-27,Royal Hills Boiled Chickpeas 400 g,canned food,22.65,28,6,7,158.55,2024-12,14
+2024-12-27,"Dobella minced garlic, 200 gm",canned food,39.47,76,8,6,236.82,2024-12,40
+2024-12-27,Nestle Evaporated Milk 170 g,dairy products,18.08,53,11,5,90.4,2024-12,17
+2024-12-27,Almarai Cheddar Cheese Slices,dairy products,21.03,10,19,7,147.21,2024-12,36
+2024-12-27,Puck Cream Cheese Spread,dairy products,49.35,13,5,7,345.45,2024-12,12
+2024-12-27,Lurpak Butter 500 g,dairy products,16.09,25,17,25,402.25,2024-12,45
+2024-12-27,Sadia Chicken Nuggets 1 Kg,frozen food,34.61,47,5,24,830.64,2024-12,28
+2024-12-27,Farm Frites French Fries 2.5 Kg,frozen food,31.72,26,7,25,793.0,2024-12,49
+2024-12-27,Green Giant Broccoli Florets 400 g,frozen food,13.04,16,18,24,312.96,2024-12,47
+2024-12-27,Oreo Original Biscuits 120 g,snacks,24.97,84,15,13,324.61,2024-12,20
+2024-12-27,Pringles Sour Cream & Onion 165 g,snacks,28.27,76,5,9,254.43,2024-12,21
+2024-12-27,Lay's Salted Potato Chips 200 g,snacks,45.58,70,14,6,273.48,2024-12,15
+2024-12-27,Galaxy Milk Chocolate Bar 100 g,confectionery,15.58,18,19,22,342.76,2024-12,14
+2024-12-27,Ferrero Rocher T3 37.5 g,confectionery,45.95,74,19,14,643.3,2024-12,29
+2024-12-27,Cadbury Dairy Milk 200 g,confectionery,26.77,51,6,19,508.63,2024-12,40
+2024-12-27,Sprite Soft Drink 1.5 L,beverages,31.51,97,8,23,724.73,2024-12,12
+2024-12-27,Coca-Cola Soft Drink 1.5 L,beverages,24.96,80,14,20,499.2,2024-12,22
+2024-12-27,Pepsi Soft Drink 1.5 L,beverages,17.82,58,19,15,267.3,2024-12,45
+2024-12-28,Royal Hills Mushrooms 400 g,canned food,27.83,67,5,23,640.09,2024-12,10
+2024-12-28,Amr Sweet Corn 400 Gm,canned food,29.75,51,8,12,357.0,2024-12,14
+2024-12-28,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,25.0,90,11,12,300.0,2024-12,44
+2024-12-28,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,13.94,89,10,20,278.8,2024-12,39
+2024-12-28,Royal Hills Boiled Chickpeas 400 g,canned food,46.49,60,8,11,511.39,2024-12,25
+2024-12-28,"Dobella minced garlic, 200 gm",canned food,34.83,71,19,23,801.09,2024-12,22
+2024-12-28,Nestle Evaporated Milk 170 g,dairy products,38.31,45,7,9,344.79,2024-12,20
+2024-12-28,Almarai Cheddar Cheese Slices,dairy products,18.73,12,12,10,187.3,2024-12,27
+2024-12-28,Puck Cream Cheese Spread,dairy products,41.6,33,5,14,582.4,2024-12,49
+2024-12-28,Lurpak Butter 500 g,dairy products,23.0,68,9,25,575.0,2024-12,41
+2024-12-28,Sadia Chicken Nuggets 1 Kg,frozen food,11.74,57,5,5,58.7,2024-12,37
+2024-12-28,Farm Frites French Fries 2.5 Kg,frozen food,31.99,82,16,16,511.84,2024-12,23
+2024-12-28,Green Giant Broccoli Florets 400 g,frozen food,42.62,97,19,11,468.82,2024-12,31
+2024-12-28,Oreo Original Biscuits 120 g,snacks,22.61,83,19,12,271.32,2024-12,18
+2024-12-28,Pringles Sour Cream & Onion 165 g,snacks,26.45,55,7,5,132.25,2024-12,11
+2024-12-28,Lay's Salted Potato Chips 200 g,snacks,31.52,55,5,11,346.72,2024-12,35
+2024-12-28,Galaxy Milk Chocolate Bar 100 g,confectionery,44.18,49,11,10,441.8,2024-12,33
+2024-12-28,Ferrero Rocher T3 37.5 g,confectionery,23.8,18,6,10,238.0,2024-12,40
+2024-12-28,Cadbury Dairy Milk 200 g,confectionery,25.99,19,8,15,389.85,2024-12,13
+2024-12-28,Sprite Soft Drink 1.5 L,beverages,20.4,100,11,7,142.8,2024-12,17
+2024-12-28,Coca-Cola Soft Drink 1.5 L,beverages,11.38,69,10,20,227.6,2024-12,40
+2024-12-28,Pepsi Soft Drink 1.5 L,beverages,31.93,86,15,18,574.74,2024-12,42
+2024-12-29,Royal Hills Mushrooms 400 g,canned food,43.88,41,19,9,394.92,2024-12,12
+2024-12-29,Amr Sweet Corn 400 Gm,canned food,46.51,36,10,9,418.59,2024-12,48
+2024-12-29,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,48.87,34,10,6,293.22,2024-12,47
+2024-12-29,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,11.39,93,17,25,284.75,2024-12,48
+2024-12-29,Royal Hills Boiled Chickpeas 400 g,canned food,22.07,39,7,5,110.35,2024-12,29
+2024-12-29,"Dobella minced garlic, 200 gm",canned food,22.84,42,16,18,411.12,2024-12,16
+2024-12-29,Nestle Evaporated Milk 170 g,dairy products,19.33,58,13,10,193.3,2024-12,25
+2024-12-29,Almarai Cheddar Cheese Slices,dairy products,26.51,96,19,24,636.24,2024-12,48
+2024-12-29,Puck Cream Cheese Spread,dairy products,26.48,48,12,9,238.32,2024-12,12
+2024-12-29,Lurpak Butter 500 g,dairy products,41.6,35,5,19,790.4,2024-12,44
+2024-12-29,Sadia Chicken Nuggets 1 Kg,frozen food,41.93,93,7,22,922.46,2024-12,33
+2024-12-29,Farm Frites French Fries 2.5 Kg,frozen food,33.07,35,12,13,429.91,2024-12,40
+2024-12-29,Green Giant Broccoli Florets 400 g,frozen food,46.2,64,7,17,785.4,2024-12,31
+2024-12-29,Oreo Original Biscuits 120 g,snacks,31.09,37,13,13,404.17,2024-12,49
+2024-12-29,Pringles Sour Cream & Onion 165 g,snacks,22.21,48,11,11,244.31,2024-12,45
+2024-12-29,Lay's Salted Potato Chips 200 g,snacks,45.37,50,11,9,408.33,2024-12,33
+2024-12-29,Galaxy Milk Chocolate Bar 100 g,confectionery,13.4,63,15,14,187.6,2024-12,47
+2024-12-29,Ferrero Rocher T3 37.5 g,confectionery,40.99,56,20,23,942.77,2024-12,22
+2024-12-29,Cadbury Dairy Milk 200 g,confectionery,11.11,57,14,7,77.77,2024-12,30
+2024-12-29,Sprite Soft Drink 1.5 L,beverages,47.14,60,17,8,377.12,2024-12,19
+2024-12-29,Coca-Cola Soft Drink 1.5 L,beverages,41.49,77,16,15,622.35,2024-12,26
+2024-12-29,Pepsi Soft Drink 1.5 L,beverages,40.12,25,13,21,842.52,2024-12,13
+2024-12-30,Royal Hills Mushrooms 400 g,canned food,29.41,42,10,24,705.84,2024-12,34
+2024-12-30,Amr Sweet Corn 400 Gm,canned food,29.28,35,20,11,322.08,2024-12,39
+2024-12-30,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,47.41,27,13,18,853.38,2024-12,33
+2024-12-30,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,43.15,35,13,19,819.85,2024-12,35
+2024-12-30,Royal Hills Boiled Chickpeas 400 g,canned food,27.05,87,18,13,351.65,2024-12,33
+2024-12-30,"Dobella minced garlic, 200 gm",canned food,14.91,29,17,5,74.55,2024-12,43
+2024-12-30,Nestle Evaporated Milk 170 g,dairy products,14.54,37,6,5,72.7,2024-12,39
+2024-12-30,Almarai Cheddar Cheese Slices,dairy products,27.23,86,8,19,517.37,2024-12,47
+2024-12-30,Puck Cream Cheese Spread,dairy products,32.17,48,20,5,160.85,2024-12,19
+2024-12-30,Lurpak Butter 500 g,dairy products,43.84,71,5,24,1052.16,2024-12,23
+2024-12-30,Sadia Chicken Nuggets 1 Kg,frozen food,14.04,44,18,16,224.64,2024-12,30
+2024-12-30,Farm Frites French Fries 2.5 Kg,frozen food,31.16,13,20,7,218.12,2024-12,46
+2024-12-30,Green Giant Broccoli Florets 400 g,frozen food,49.65,58,6,11,546.15,2024-12,40
+2024-12-30,Oreo Original Biscuits 120 g,snacks,43.27,20,17,7,302.89,2024-12,28
+2024-12-30,Pringles Sour Cream & Onion 165 g,snacks,14.11,99,5,22,310.42,2024-12,24
+2024-12-30,Lay's Salted Potato Chips 200 g,snacks,31.61,10,11,18,568.98,2024-12,45
+2024-12-30,Galaxy Milk Chocolate Bar 100 g,confectionery,20.23,62,12,7,141.61,2024-12,18
+2024-12-30,Ferrero Rocher T3 37.5 g,confectionery,20.8,39,17,14,291.2,2024-12,19
+2024-12-30,Cadbury Dairy Milk 200 g,confectionery,13.14,62,14,25,328.5,2024-12,24
+2024-12-30,Sprite Soft Drink 1.5 L,beverages,33.67,73,20,9,303.03,2024-12,36
+2024-12-30,Coca-Cola Soft Drink 1.5 L,beverages,39.45,12,13,19,749.55,2024-12,12
+2024-12-30,Pepsi Soft Drink 1.5 L,beverages,39.19,77,8,15,587.85,2024-12,29
+2024-12-31,Royal Hills Mushrooms 400 g,canned food,34.04,46,5,11,374.44,2024-12,19
+2024-12-31,Amr Sweet Corn 400 Gm,canned food,29.46,37,8,14,412.44,2024-12,46
+2024-12-31,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,11.72,79,9,22,257.84,2024-12,25
+2024-12-31,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,36.55,73,19,25,913.75,2024-12,12
+2024-12-31,Royal Hills Boiled Chickpeas 400 g,canned food,25.78,21,16,5,128.9,2024-12,33
+2024-12-31,"Dobella minced garlic, 200 gm",canned food,49.69,60,9,18,894.42,2024-12,15
+2024-12-31,Nestle Evaporated Milk 170 g,dairy products,39.56,51,12,6,237.36,2024-12,13
+2024-12-31,Almarai Cheddar Cheese Slices,dairy products,25.98,42,16,9,233.82,2024-12,13
+2024-12-31,Puck Cream Cheese Spread,dairy products,41.49,64,8,7,290.43,2024-12,31
+2024-12-31,Lurpak Butter 500 g,dairy products,27.04,81,15,19,513.76,2024-12,30
+2024-12-31,Sadia Chicken Nuggets 1 Kg,frozen food,32.56,40,14,14,455.84,2024-12,27
+2024-12-31,Farm Frites French Fries 2.5 Kg,frozen food,32.47,62,12,10,324.7,2024-12,10
+2024-12-31,Green Giant Broccoli Florets 400 g,frozen food,27.74,85,16,24,665.76,2024-12,33
+2024-12-31,Oreo Original Biscuits 120 g,snacks,23.31,65,9,8,186.48,2024-12,26
+2024-12-31,Pringles Sour Cream & Onion 165 g,snacks,20.0,32,6,16,320.0,2024-12,49
+2024-12-31,Lay's Salted Potato Chips 200 g,snacks,15.83,68,17,5,79.15,2024-12,37
+2024-12-31,Galaxy Milk Chocolate Bar 100 g,confectionery,28.39,44,8,11,312.29,2024-12,20
+2024-12-31,Ferrero Rocher T3 37.5 g,confectionery,42.24,32,20,8,337.92,2024-12,37
+2024-12-31,Cadbury Dairy Milk 200 g,confectionery,18.7,35,18,22,411.4,2024-12,50
+2024-12-31,Sprite Soft Drink 1.5 L,beverages,47.46,63,17,15,711.9,2024-12,33
+2024-12-31,Coca-Cola Soft Drink 1.5 L,beverages,49.64,26,17,11,546.04,2024-12,44
+2024-12-31,Pepsi Soft Drink 1.5 L,beverages,48.86,20,16,18,879.48,2024-12,37
+2025-01-01,Royal Hills Mushrooms 400 g,canned food,33.53,56,12,23,771.19,2025-01,28
+2025-01-01,Amr Sweet Corn 400 Gm,canned food,43.27,51,15,24,1038.48,2025-01,34
+2025-01-01,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,26.25,76,19,17,446.25,2025-01,32
+2025-01-01,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,32.68,63,15,21,686.28,2025-01,48
+2025-01-01,Royal Hills Boiled Chickpeas 400 g,canned food,17.18,21,12,20,343.6,2025-01,48
+2025-01-01,"Dobella minced garlic, 200 gm",canned food,48.16,19,18,10,481.6,2025-01,39
+2025-01-01,Nestle Evaporated Milk 170 g,dairy products,20.14,24,11,16,322.24,2025-01,17
+2025-01-01,Almarai Cheddar Cheese Slices,dairy products,44.96,51,8,21,944.16,2025-01,19
+2025-01-01,Puck Cream Cheese Spread,dairy products,43.51,67,18,16,696.16,2025-01,36
+2025-01-01,Lurpak Butter 500 g,dairy products,13.91,40,10,17,236.47,2025-01,41
+2025-01-01,Sadia Chicken Nuggets 1 Kg,frozen food,34.52,60,6,24,828.48,2025-01,50
+2025-01-01,Farm Frites French Fries 2.5 Kg,frozen food,34.86,48,15,17,592.62,2025-01,48
+2025-01-01,Green Giant Broccoli Florets 400 g,frozen food,26.23,92,10,15,393.45,2025-01,16
+2025-01-01,Oreo Original Biscuits 120 g,snacks,47.79,23,8,5,238.95,2025-01,24
+2025-01-01,Pringles Sour Cream & Onion 165 g,snacks,26.02,33,9,14,364.28,2025-01,36
+2025-01-01,Lay's Salted Potato Chips 200 g,snacks,42.29,28,13,12,507.48,2025-01,19
+2025-01-01,Galaxy Milk Chocolate Bar 100 g,confectionery,39.53,69,5,12,474.36,2025-01,38
+2025-01-01,Ferrero Rocher T3 37.5 g,confectionery,38.07,67,10,10,380.7,2025-01,30
+2025-01-01,Cadbury Dairy Milk 200 g,confectionery,22.14,10,5,23,509.22,2025-01,34
+2025-01-01,Sprite Soft Drink 1.5 L,beverages,15.4,87,16,11,169.4,2025-01,14
+2025-01-01,Coca-Cola Soft Drink 1.5 L,beverages,46.25,31,18,16,740.0,2025-01,43
+2025-01-01,Pepsi Soft Drink 1.5 L,beverages,22.47,27,13,8,179.76,2025-01,20
+2025-01-02,Royal Hills Mushrooms 400 g,canned food,39.14,40,8,5,195.7,2025-01,33
+2025-01-02,Amr Sweet Corn 400 Gm,canned food,44.78,52,18,9,403.02,2025-01,35
+2025-01-02,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,36.81,36,17,24,883.44,2025-01,41
+2025-01-02,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,47.28,39,7,21,992.88,2025-01,13
+2025-01-02,Royal Hills Boiled Chickpeas 400 g,canned food,41.41,57,8,7,289.87,2025-01,44
+2025-01-02,"Dobella minced garlic, 200 gm",canned food,37.64,36,16,5,188.2,2025-01,34
+2025-01-02,Nestle Evaporated Milk 170 g,dairy products,46.33,28,17,6,277.98,2025-01,49
+2025-01-02,Almarai Cheddar Cheese Slices,dairy products,35.17,13,10,17,597.89,2025-01,20
+2025-01-02,Puck Cream Cheese Spread,dairy products,12.01,74,8,13,156.13,2025-01,43
+2025-01-02,Lurpak Butter 500 g,dairy products,21.16,96,14,24,507.84,2025-01,43
+2025-01-02,Sadia Chicken Nuggets 1 Kg,frozen food,44.45,21,11,18,800.1,2025-01,36
+2025-01-02,Farm Frites French Fries 2.5 Kg,frozen food,14.23,79,13,6,85.38,2025-01,16
+2025-01-02,Green Giant Broccoli Florets 400 g,frozen food,31.17,81,7,8,249.36,2025-01,41
+2025-01-02,Oreo Original Biscuits 120 g,snacks,17.46,70,18,11,192.06,2025-01,13
+2025-01-02,Pringles Sour Cream & Onion 165 g,snacks,25.26,85,13,11,277.86,2025-01,41
+2025-01-02,Lay's Salted Potato Chips 200 g,snacks,39.33,18,10,6,235.98,2025-01,45
+2025-01-02,Galaxy Milk Chocolate Bar 100 g,confectionery,12.0,53,7,17,204.0,2025-01,45
+2025-01-02,Ferrero Rocher T3 37.5 g,confectionery,43.16,92,20,23,992.68,2025-01,36
+2025-01-02,Cadbury Dairy Milk 200 g,confectionery,48.36,95,9,15,725.4,2025-01,47
+2025-01-02,Sprite Soft Drink 1.5 L,beverages,48.48,86,8,6,290.88,2025-01,35
+2025-01-02,Coca-Cola Soft Drink 1.5 L,beverages,29.32,52,16,20,586.4,2025-01,28
+2025-01-02,Pepsi Soft Drink 1.5 L,beverages,21.65,30,5,5,108.25,2025-01,14
+2025-01-03,Royal Hills Mushrooms 400 g,canned food,49.13,97,12,7,343.91,2025-01,46
+2025-01-03,Amr Sweet Corn 400 Gm,canned food,39.12,33,16,20,782.4,2025-01,14
+2025-01-03,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,10.67,83,15,7,74.69,2025-01,25
+2025-01-03,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,19.0,33,8,6,114.0,2025-01,43
+2025-01-03,Royal Hills Boiled Chickpeas 400 g,canned food,46.93,92,11,22,1032.46,2025-01,45
+2025-01-03,"Dobella minced garlic, 200 gm",canned food,40.78,15,7,12,489.36,2025-01,34
+2025-01-03,Nestle Evaporated Milk 170 g,dairy products,22.18,27,19,22,487.96,2025-01,29
+2025-01-03,Almarai Cheddar Cheese Slices,dairy products,28.17,31,18,11,309.87,2025-01,40
+2025-01-03,Puck Cream Cheese Spread,dairy products,42.54,51,9,8,340.32,2025-01,11
+2025-01-03,Lurpak Butter 500 g,dairy products,34.5,33,19,16,552.0,2025-01,29
+2025-01-03,Sadia Chicken Nuggets 1 Kg,frozen food,27.8,55,15,25,695.0,2025-01,39
+2025-01-03,Farm Frites French Fries 2.5 Kg,frozen food,37.73,19,11,22,830.06,2025-01,36
+2025-01-03,Green Giant Broccoli Florets 400 g,frozen food,37.96,29,6,5,189.8,2025-01,13
+2025-01-03,Oreo Original Biscuits 120 g,snacks,24.34,71,10,17,413.78,2025-01,28
+2025-01-03,Pringles Sour Cream & Onion 165 g,snacks,28.22,69,14,25,705.5,2025-01,44
+2025-01-03,Lay's Salted Potato Chips 200 g,snacks,25.64,73,13,8,205.12,2025-01,38
+2025-01-03,Galaxy Milk Chocolate Bar 100 g,confectionery,39.19,92,5,5,195.95,2025-01,50
+2025-01-03,Ferrero Rocher T3 37.5 g,confectionery,17.37,64,5,12,208.44,2025-01,47
+2025-01-03,Cadbury Dairy Milk 200 g,confectionery,25.14,72,18,23,578.22,2025-01,42
+2025-01-03,Sprite Soft Drink 1.5 L,beverages,23.84,48,14,17,405.28,2025-01,40
+2025-01-03,Coca-Cola Soft Drink 1.5 L,beverages,15.01,46,11,21,315.21,2025-01,31
+2025-01-03,Pepsi Soft Drink 1.5 L,beverages,13.68,54,8,13,177.84,2025-01,11
+2025-01-04,Royal Hills Mushrooms 400 g,canned food,35.58,57,5,9,320.22,2025-01,20
+2025-01-04,Amr Sweet Corn 400 Gm,canned food,11.18,42,5,13,145.34,2025-01,13
+2025-01-04,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,43.75,93,19,8,350.0,2025-01,46
+2025-01-04,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,10.89,33,11,12,130.68,2025-01,36
+2025-01-04,Royal Hills Boiled Chickpeas 400 g,canned food,15.13,41,18,25,378.25,2025-01,46
+2025-01-04,"Dobella minced garlic, 200 gm",canned food,29.49,98,12,21,619.29,2025-01,29
+2025-01-04,Nestle Evaporated Milk 170 g,dairy products,43.59,70,7,23,1002.57,2025-01,11
+2025-01-04,Almarai Cheddar Cheese Slices,dairy products,49.84,89,13,25,1246.0,2025-01,45
+2025-01-04,Puck Cream Cheese Spread,dairy products,15.94,22,10,15,239.1,2025-01,17
+2025-01-04,Lurpak Butter 500 g,dairy products,17.78,68,9,9,160.02,2025-01,44
+2025-01-04,Sadia Chicken Nuggets 1 Kg,frozen food,17.9,52,18,14,250.6,2025-01,33
+2025-01-04,Farm Frites French Fries 2.5 Kg,frozen food,26.06,77,13,7,182.42,2025-01,25
+2025-01-04,Green Giant Broccoli Florets 400 g,frozen food,35.95,29,6,21,754.95,2025-01,39
+2025-01-04,Oreo Original Biscuits 120 g,snacks,41.08,52,18,14,575.12,2025-01,23
+2025-01-04,Pringles Sour Cream & Onion 165 g,snacks,41.84,21,6,7,292.88,2025-01,37
+2025-01-04,Lay's Salted Potato Chips 200 g,snacks,10.01,29,15,5,50.05,2025-01,14
+2025-01-04,Galaxy Milk Chocolate Bar 100 g,confectionery,18.36,40,20,7,128.52,2025-01,19
+2025-01-04,Ferrero Rocher T3 37.5 g,confectionery,37.87,78,7,16,605.92,2025-01,22
+2025-01-04,Cadbury Dairy Milk 200 g,confectionery,29.03,48,12,10,290.3,2025-01,11
+2025-01-04,Sprite Soft Drink 1.5 L,beverages,17.85,24,18,22,392.7,2025-01,25
+2025-01-04,Coca-Cola Soft Drink 1.5 L,beverages,33.87,71,6,22,745.14,2025-01,42
+2025-01-04,Pepsi Soft Drink 1.5 L,beverages,32.35,99,15,7,226.45,2025-01,33
+2025-01-05,Royal Hills Mushrooms 400 g,canned food,28.16,41,14,13,366.08,2025-01,16
+2025-01-05,Amr Sweet Corn 400 Gm,canned food,29.63,47,12,25,740.75,2025-01,50
+2025-01-05,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,36.41,23,6,8,291.28,2025-01,20
+2025-01-05,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,34.01,100,5,9,306.09,2025-01,30
+2025-01-05,Royal Hills Boiled Chickpeas 400 g,canned food,12.81,55,7,24,307.44,2025-01,47
+2025-01-05,"Dobella minced garlic, 200 gm",canned food,38.27,65,11,13,497.51,2025-01,34
+2025-01-05,Nestle Evaporated Milk 170 g,dairy products,15.34,54,13,24,368.16,2025-01,17
+2025-01-05,Almarai Cheddar Cheese Slices,dairy products,33.82,53,20,13,439.66,2025-01,26
+2025-01-05,Puck Cream Cheese Spread,dairy products,34.58,17,14,5,172.9,2025-01,42
+2025-01-05,Lurpak Butter 500 g,dairy products,15.59,95,9,18,280.62,2025-01,16
+2025-01-05,Sadia Chicken Nuggets 1 Kg,frozen food,22.22,34,12,15,333.3,2025-01,40
+2025-01-05,Farm Frites French Fries 2.5 Kg,frozen food,40.88,75,10,22,899.36,2025-01,31
+2025-01-05,Green Giant Broccoli Florets 400 g,frozen food,32.56,22,19,23,748.88,2025-01,38
+2025-01-05,Oreo Original Biscuits 120 g,snacks,19.27,89,18,13,250.51,2025-01,45
+2025-01-05,Pringles Sour Cream & Onion 165 g,snacks,43.76,29,19,7,306.32,2025-01,50
+2025-01-05,Lay's Salted Potato Chips 200 g,snacks,12.34,39,20,9,111.06,2025-01,24
+2025-01-05,Galaxy Milk Chocolate Bar 100 g,confectionery,26.83,25,9,16,429.28,2025-01,33
+2025-01-05,Ferrero Rocher T3 37.5 g,confectionery,38.61,34,5,12,463.32,2025-01,41
+2025-01-05,Cadbury Dairy Milk 200 g,confectionery,25.34,95,14,15,380.1,2025-01,17
+2025-01-05,Sprite Soft Drink 1.5 L,beverages,25.7,40,17,25,642.5,2025-01,46
+2025-01-05,Coca-Cola Soft Drink 1.5 L,beverages,40.85,50,18,21,857.85,2025-01,36
+2025-01-05,Pepsi Soft Drink 1.5 L,beverages,24.39,97,5,22,536.58,2025-01,35
+2025-01-06,Royal Hills Mushrooms 400 g,canned food,27.96,12,18,24,671.04,2025-01,31
+2025-01-06,Amr Sweet Corn 400 Gm,canned food,25.34,13,17,5,126.7,2025-01,48
+2025-01-06,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,15.17,48,20,10,151.7,2025-01,15
+2025-01-06,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,36.18,22,8,8,289.44,2025-01,19
+2025-01-06,Royal Hills Boiled Chickpeas 400 g,canned food,21.57,27,18,24,517.68,2025-01,39
+2025-01-06,"Dobella minced garlic, 200 gm",canned food,44.55,43,15,20,891.0,2025-01,11
+2025-01-06,Nestle Evaporated Milk 170 g,dairy products,35.15,67,10,20,703.0,2025-01,19
+2025-01-06,Almarai Cheddar Cheese Slices,dairy products,18.84,13,13,16,301.44,2025-01,37
+2025-01-06,Puck Cream Cheese Spread,dairy products,43.3,90,19,8,346.4,2025-01,15
+2025-01-06,Lurpak Butter 500 g,dairy products,25.08,46,12,11,275.88,2025-01,27
+2025-01-06,Sadia Chicken Nuggets 1 Kg,frozen food,29.35,60,18,10,293.5,2025-01,18
+2025-01-06,Farm Frites French Fries 2.5 Kg,frozen food,36.14,91,12,18,650.52,2025-01,20
+2025-01-06,Green Giant Broccoli Florets 400 g,frozen food,37.1,84,13,21,779.1,2025-01,39
+2025-01-06,Oreo Original Biscuits 120 g,snacks,42.76,62,14,11,470.36,2025-01,27
+2025-01-06,Pringles Sour Cream & Onion 165 g,snacks,37.56,36,19,22,826.32,2025-01,17
+2025-01-06,Lay's Salted Potato Chips 200 g,snacks,13.36,91,9,18,240.48,2025-01,32
+2025-01-06,Galaxy Milk Chocolate Bar 100 g,confectionery,15.09,21,13,23,347.07,2025-01,38
+2025-01-06,Ferrero Rocher T3 37.5 g,confectionery,16.05,86,8,20,321.0,2025-01,34
+2025-01-06,Cadbury Dairy Milk 200 g,confectionery,48.58,77,20,5,242.9,2025-01,19
+2025-01-06,Sprite Soft Drink 1.5 L,beverages,22.76,52,6,10,227.6,2025-01,27
+2025-01-06,Coca-Cola Soft Drink 1.5 L,beverages,21.34,25,14,13,277.42,2025-01,40
+2025-01-06,Pepsi Soft Drink 1.5 L,beverages,43.86,64,14,6,263.16,2025-01,18
+2025-01-07,Royal Hills Mushrooms 400 g,canned food,21.18,37,19,18,381.24,2025-01,45
+2025-01-07,Amr Sweet Corn 400 Gm,canned food,27.24,36,6,14,381.36,2025-01,41
+2025-01-07,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,40.68,93,18,21,854.28,2025-01,48
+2025-01-07,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,45.13,25,15,25,1128.25,2025-01,33
+2025-01-07,Royal Hills Boiled Chickpeas 400 g,canned food,19.37,69,12,13,251.81,2025-01,29
+2025-01-07,"Dobella minced garlic, 200 gm",canned food,46.1,67,9,21,968.1,2025-01,19
+2025-01-07,Nestle Evaporated Milk 170 g,dairy products,19.39,84,7,13,252.07,2025-01,16
+2025-01-07,Almarai Cheddar Cheese Slices,dairy products,32.2,56,20,21,676.2,2025-01,28
+2025-01-07,Puck Cream Cheese Spread,dairy products,33.32,26,8,17,566.44,2025-01,30
+2025-01-07,Lurpak Butter 500 g,dairy products,25.76,47,13,19,489.44,2025-01,48
+2025-01-07,Sadia Chicken Nuggets 1 Kg,frozen food,37.32,61,13,21,783.72,2025-01,29
+2025-01-07,Farm Frites French Fries 2.5 Kg,frozen food,25.05,15,12,15,375.75,2025-01,41
+2025-01-07,Green Giant Broccoli Florets 400 g,frozen food,21.13,84,7,23,485.99,2025-01,22
+2025-01-07,Oreo Original Biscuits 120 g,snacks,45.63,59,7,8,365.04,2025-01,43
+2025-01-07,Pringles Sour Cream & Onion 165 g,snacks,30.24,30,19,22,665.28,2025-01,14
+2025-01-07,Lay's Salted Potato Chips 200 g,snacks,30.06,85,13,7,210.42,2025-01,28
+2025-01-07,Galaxy Milk Chocolate Bar 100 g,confectionery,15.03,52,12,25,375.75,2025-01,15
+2025-01-07,Ferrero Rocher T3 37.5 g,confectionery,11.97,65,14,18,215.46,2025-01,31
+2025-01-07,Cadbury Dairy Milk 200 g,confectionery,13.67,28,16,13,177.71,2025-01,34
+2025-01-07,Sprite Soft Drink 1.5 L,beverages,39.01,44,6,13,507.13,2025-01,12
+2025-01-07,Coca-Cola Soft Drink 1.5 L,beverages,47.27,68,6,23,1087.21,2025-01,35
+2025-01-07,Pepsi Soft Drink 1.5 L,beverages,38.21,13,12,21,802.41,2025-01,43
+2025-01-08,Royal Hills Mushrooms 400 g,canned food,30.04,12,12,11,330.44,2025-01,15
+2025-01-08,Amr Sweet Corn 400 Gm,canned food,28.24,33,17,7,197.68,2025-01,22
+2025-01-08,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,18.87,35,14,14,264.18,2025-01,26
+2025-01-08,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,21.29,30,10,13,276.77,2025-01,23
+2025-01-08,Royal Hills Boiled Chickpeas 400 g,canned food,40.42,51,16,16,646.72,2025-01,32
+2025-01-08,"Dobella minced garlic, 200 gm",canned food,38.3,35,13,13,497.9,2025-01,15
+2025-01-08,Nestle Evaporated Milk 170 g,dairy products,48.36,36,18,23,1112.28,2025-01,38
+2025-01-08,Almarai Cheddar Cheese Slices,dairy products,27.38,34,7,21,574.98,2025-01,28
+2025-01-08,Puck Cream Cheese Spread,dairy products,12.43,95,9,10,124.3,2025-01,24
+2025-01-08,Lurpak Butter 500 g,dairy products,36.12,40,12,25,903.0,2025-01,33
+2025-01-08,Sadia Chicken Nuggets 1 Kg,frozen food,33.32,31,6,5,166.6,2025-01,12
+2025-01-08,Farm Frites French Fries 2.5 Kg,frozen food,44.25,35,20,15,663.75,2025-01,40
+2025-01-08,Green Giant Broccoli Florets 400 g,frozen food,46.36,26,6,25,1159.0,2025-01,25
+2025-01-08,Oreo Original Biscuits 120 g,snacks,48.55,69,8,8,388.4,2025-01,40
+2025-01-08,Pringles Sour Cream & Onion 165 g,snacks,41.65,36,19,20,833.0,2025-01,39
+2025-01-08,Lay's Salted Potato Chips 200 g,snacks,22.15,77,13,9,199.35,2025-01,29
+2025-01-08,Galaxy Milk Chocolate Bar 100 g,confectionery,38.66,65,18,7,270.62,2025-01,41
+2025-01-08,Ferrero Rocher T3 37.5 g,confectionery,27.54,34,7,21,578.34,2025-01,31
+2025-01-08,Cadbury Dairy Milk 200 g,confectionery,27.59,16,9,5,137.95,2025-01,32
+2025-01-08,Sprite Soft Drink 1.5 L,beverages,15.9,70,5,24,381.6,2025-01,35
+2025-01-08,Coca-Cola Soft Drink 1.5 L,beverages,45.9,68,6,15,688.5,2025-01,25
+2025-01-08,Pepsi Soft Drink 1.5 L,beverages,28.99,94,11,17,492.83,2025-01,34
+2025-01-09,Royal Hills Mushrooms 400 g,canned food,12.8,12,13,16,204.8,2025-01,49
+2025-01-09,Amr Sweet Corn 400 Gm,canned food,44.53,92,13,23,1024.19,2025-01,34
+2025-01-09,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,20.39,37,19,12,244.68,2025-01,44
+2025-01-09,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,25.78,12,9,8,206.24,2025-01,13
+2025-01-09,Royal Hills Boiled Chickpeas 400 g,canned food,28.49,100,10,18,512.82,2025-01,42
+2025-01-09,"Dobella minced garlic, 200 gm",canned food,26.7,65,19,11,293.7,2025-01,25
+2025-01-09,Nestle Evaporated Milk 170 g,dairy products,45.71,74,5,25,1142.75,2025-01,49
+2025-01-09,Almarai Cheddar Cheese Slices,dairy products,49.14,46,5,6,294.84,2025-01,18
+2025-01-09,Puck Cream Cheese Spread,dairy products,10.17,68,20,14,142.38,2025-01,42
+2025-01-09,Lurpak Butter 500 g,dairy products,42.08,86,18,6,252.48,2025-01,50
+2025-01-09,Sadia Chicken Nuggets 1 Kg,frozen food,36.31,32,5,15,544.65,2025-01,23
+2025-01-09,Farm Frites French Fries 2.5 Kg,frozen food,36.44,44,14,14,510.16,2025-01,23
+2025-01-09,Green Giant Broccoli Florets 400 g,frozen food,23.59,93,7,9,212.31,2025-01,24
+2025-01-09,Oreo Original Biscuits 120 g,snacks,27.81,42,7,12,333.72,2025-01,38
+2025-01-09,Pringles Sour Cream & Onion 165 g,snacks,44.99,57,14,14,629.86,2025-01,19
+2025-01-09,Lay's Salted Potato Chips 200 g,snacks,49.22,60,14,25,1230.5,2025-01,35
+2025-01-09,Galaxy Milk Chocolate Bar 100 g,confectionery,45.45,53,16,9,409.05,2025-01,44
+2025-01-09,Ferrero Rocher T3 37.5 g,confectionery,17.33,97,15,22,381.26,2025-01,49
+2025-01-09,Cadbury Dairy Milk 200 g,confectionery,23.45,43,9,21,492.45,2025-01,13
+2025-01-09,Sprite Soft Drink 1.5 L,beverages,13.52,62,13,9,121.68,2025-01,26
+2025-01-09,Coca-Cola Soft Drink 1.5 L,beverages,43.17,95,12,11,474.87,2025-01,10
+2025-01-09,Pepsi Soft Drink 1.5 L,beverages,20.8,68,15,17,353.6,2025-01,22
+2025-01-10,Royal Hills Mushrooms 400 g,canned food,15.82,95,16,13,205.66,2025-01,24
+2025-01-10,Amr Sweet Corn 400 Gm,canned food,34.1,29,12,21,716.1,2025-01,11
+2025-01-10,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,22.18,65,8,6,133.08,2025-01,24
+2025-01-10,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,30.42,61,7,23,699.66,2025-01,15
+2025-01-10,Royal Hills Boiled Chickpeas 400 g,canned food,22.47,65,16,21,471.87,2025-01,29
+2025-01-10,"Dobella minced garlic, 200 gm",canned food,23.15,81,8,17,393.55,2025-01,38
+2025-01-10,Nestle Evaporated Milk 170 g,dairy products,44.78,47,5,22,985.16,2025-01,20
+2025-01-10,Almarai Cheddar Cheese Slices,dairy products,47.11,28,18,19,895.09,2025-01,16
+2025-01-10,Puck Cream Cheese Spread,dairy products,19.41,68,5,19,368.79,2025-01,19
+2025-01-10,Lurpak Butter 500 g,dairy products,26.73,85,18,12,320.76,2025-01,39
+2025-01-10,Sadia Chicken Nuggets 1 Kg,frozen food,42.05,34,10,15,630.75,2025-01,24
+2025-01-10,Farm Frites French Fries 2.5 Kg,frozen food,30.31,56,11,13,394.03,2025-01,21
+2025-01-10,Green Giant Broccoli Florets 400 g,frozen food,49.6,16,9,24,1190.4,2025-01,20
+2025-01-10,Oreo Original Biscuits 120 g,snacks,48.88,60,9,24,1173.12,2025-01,41
+2025-01-10,Pringles Sour Cream & Onion 165 g,snacks,44.33,75,12,10,443.3,2025-01,44
+2025-01-10,Lay's Salted Potato Chips 200 g,snacks,49.92,82,18,6,299.52,2025-01,26
+2025-01-10,Galaxy Milk Chocolate Bar 100 g,confectionery,34.9,64,14,14,488.6,2025-01,50
+2025-01-10,Ferrero Rocher T3 37.5 g,confectionery,49.38,67,9,11,543.18,2025-01,35
+2025-01-10,Cadbury Dairy Milk 200 g,confectionery,45.84,35,20,7,320.88,2025-01,12
+2025-01-10,Sprite Soft Drink 1.5 L,beverages,23.92,44,6,16,382.72,2025-01,23
+2025-01-10,Coca-Cola Soft Drink 1.5 L,beverages,47.01,61,15,15,705.15,2025-01,18
+2025-01-10,Pepsi Soft Drink 1.5 L,beverages,30.03,42,8,9,270.27,2025-01,38
+2025-01-11,Royal Hills Mushrooms 400 g,canned food,23.34,16,9,24,560.16,2025-01,13
+2025-01-11,Amr Sweet Corn 400 Gm,canned food,34.39,75,14,22,756.58,2025-01,37
+2025-01-11,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,41.87,17,15,10,418.7,2025-01,22
+2025-01-11,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,49.82,64,10,25,1245.5,2025-01,46
+2025-01-11,Royal Hills Boiled Chickpeas 400 g,canned food,16.32,49,15,20,326.4,2025-01,39
+2025-01-11,"Dobella minced garlic, 200 gm",canned food,49.54,55,11,5,247.7,2025-01,34
+2025-01-11,Nestle Evaporated Milk 170 g,dairy products,26.44,81,11,25,661.0,2025-01,49
+2025-01-11,Almarai Cheddar Cheese Slices,dairy products,31.45,50,8,17,534.65,2025-01,41
+2025-01-11,Puck Cream Cheese Spread,dairy products,40.83,13,15,5,204.15,2025-01,29
+2025-01-11,Lurpak Butter 500 g,dairy products,19.87,21,10,12,238.44,2025-01,44
+2025-01-11,Sadia Chicken Nuggets 1 Kg,frozen food,17.07,74,9,25,426.75,2025-01,48
+2025-01-11,Farm Frites French Fries 2.5 Kg,frozen food,20.11,67,8,6,120.66,2025-01,50
+2025-01-11,Green Giant Broccoli Florets 400 g,frozen food,21.28,88,17,17,361.76,2025-01,14
+2025-01-11,Oreo Original Biscuits 120 g,snacks,43.21,98,11,25,1080.25,2025-01,41
+2025-01-11,Pringles Sour Cream & Onion 165 g,snacks,41.84,22,19,17,711.28,2025-01,22
+2025-01-11,Lay's Salted Potato Chips 200 g,snacks,23.17,35,19,18,417.06,2025-01,23
+2025-01-11,Galaxy Milk Chocolate Bar 100 g,confectionery,37.89,87,13,10,378.9,2025-01,30
+2025-01-11,Ferrero Rocher T3 37.5 g,confectionery,48.31,22,18,8,386.48,2025-01,24
+2025-01-11,Cadbury Dairy Milk 200 g,confectionery,26.53,23,13,19,504.07,2025-01,50
+2025-01-11,Sprite Soft Drink 1.5 L,beverages,46.32,25,9,8,370.56,2025-01,41
+2025-01-11,Coca-Cola Soft Drink 1.5 L,beverages,18.4,96,19,14,257.6,2025-01,19
+2025-01-11,Pepsi Soft Drink 1.5 L,beverages,11.48,14,5,13,149.24,2025-01,22
+2025-01-12,Royal Hills Mushrooms 400 g,canned food,10.2,40,12,6,61.2,2025-01,15
+2025-01-12,Amr Sweet Corn 400 Gm,canned food,35.1,62,20,16,561.6,2025-01,32
+2025-01-12,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,28.25,74,8,10,282.5,2025-01,27
+2025-01-12,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,17.51,16,10,22,385.22,2025-01,39
+2025-01-12,Royal Hills Boiled Chickpeas 400 g,canned food,24.4,29,12,8,195.2,2025-01,30
+2025-01-12,"Dobella minced garlic, 200 gm",canned food,14.26,34,8,6,85.56,2025-01,47
+2025-01-12,Nestle Evaporated Milk 170 g,dairy products,26.95,71,6,23,619.85,2025-01,19
+2025-01-12,Almarai Cheddar Cheese Slices,dairy products,16.15,82,5,20,323.0,2025-01,45
+2025-01-12,Puck Cream Cheese Spread,dairy products,29.39,100,16,22,646.58,2025-01,25
+2025-01-12,Lurpak Butter 500 g,dairy products,22.73,77,15,10,227.3,2025-01,50
+2025-01-12,Sadia Chicken Nuggets 1 Kg,frozen food,42.12,81,9,6,252.72,2025-01,23
+2025-01-12,Farm Frites French Fries 2.5 Kg,frozen food,44.88,20,18,13,583.44,2025-01,34
+2025-01-12,Green Giant Broccoli Florets 400 g,frozen food,37.95,33,19,8,303.6,2025-01,20
+2025-01-12,Oreo Original Biscuits 120 g,snacks,14.86,16,20,16,237.76,2025-01,39
+2025-01-12,Pringles Sour Cream & Onion 165 g,snacks,29.6,65,6,25,740.0,2025-01,18
+2025-01-12,Lay's Salted Potato Chips 200 g,snacks,15.68,51,17,10,156.8,2025-01,14
+2025-01-12,Galaxy Milk Chocolate Bar 100 g,confectionery,37.83,53,7,16,605.28,2025-01,49
+2025-01-12,Ferrero Rocher T3 37.5 g,confectionery,37.19,14,15,24,892.56,2025-01,26
+2025-01-12,Cadbury Dairy Milk 200 g,confectionery,33.14,73,6,15,497.1,2025-01,18
+2025-01-12,Sprite Soft Drink 1.5 L,beverages,18.3,51,8,18,329.4,2025-01,47
+2025-01-12,Coca-Cola Soft Drink 1.5 L,beverages,32.02,95,13,7,224.14,2025-01,40
+2025-01-12,Pepsi Soft Drink 1.5 L,beverages,16.72,26,9,16,267.52,2025-01,44
+2025-01-13,Royal Hills Mushrooms 400 g,canned food,15.49,74,20,15,232.35,2025-01,24
+2025-01-13,Amr Sweet Corn 400 Gm,canned food,41.22,96,5,10,412.2,2025-01,16
+2025-01-13,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,49.25,90,13,22,1083.5,2025-01,36
+2025-01-13,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,36.36,13,13,14,509.04,2025-01,18
+2025-01-13,Royal Hills Boiled Chickpeas 400 g,canned food,48.36,69,5,7,338.52,2025-01,27
+2025-01-13,"Dobella minced garlic, 200 gm",canned food,43.04,72,19,6,258.24,2025-01,28
+2025-01-13,Nestle Evaporated Milk 170 g,dairy products,49.07,79,19,10,490.7,2025-01,22
+2025-01-13,Almarai Cheddar Cheese Slices,dairy products,25.22,68,5,20,504.4,2025-01,48
+2025-01-13,Puck Cream Cheese Spread,dairy products,44.64,76,8,5,223.2,2025-01,15
+2025-01-13,Lurpak Butter 500 g,dairy products,13.11,39,15,19,249.09,2025-01,21
+2025-01-13,Sadia Chicken Nuggets 1 Kg,frozen food,26.58,44,7,17,451.86,2025-01,39
+2025-01-13,Farm Frites French Fries 2.5 Kg,frozen food,40.54,39,18,10,405.4,2025-01,32
+2025-01-13,Green Giant Broccoli Florets 400 g,frozen food,20.1,47,7,17,341.7,2025-01,44
+2025-01-13,Oreo Original Biscuits 120 g,snacks,10.67,53,10,12,128.04,2025-01,31
+2025-01-13,Pringles Sour Cream & Onion 165 g,snacks,10.46,67,19,20,209.2,2025-01,47
+2025-01-13,Lay's Salted Potato Chips 200 g,snacks,13.04,81,17,16,208.64,2025-01,16
+2025-01-13,Galaxy Milk Chocolate Bar 100 g,confectionery,37.71,60,19,12,452.52,2025-01,48
+2025-01-13,Ferrero Rocher T3 37.5 g,confectionery,19.18,56,11,14,268.52,2025-01,35
+2025-01-13,Cadbury Dairy Milk 200 g,confectionery,41.49,65,10,21,871.29,2025-01,22
+2025-01-13,Sprite Soft Drink 1.5 L,beverages,27.18,71,20,5,135.9,2025-01,16
+2025-01-13,Coca-Cola Soft Drink 1.5 L,beverages,10.43,86,6,6,62.58,2025-01,21
+2025-01-13,Pepsi Soft Drink 1.5 L,beverages,46.49,86,15,17,790.33,2025-01,19
+2025-01-14,Royal Hills Mushrooms 400 g,canned food,47.07,36,5,11,517.77,2025-01,45
+2025-01-14,Amr Sweet Corn 400 Gm,canned food,39.07,46,13,13,507.91,2025-01,17
+2025-01-14,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,13.5,93,11,9,121.5,2025-01,41
+2025-01-14,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,17.99,43,15,8,143.92,2025-01,16
+2025-01-14,Royal Hills Boiled Chickpeas 400 g,canned food,12.25,80,6,25,306.25,2025-01,39
+2025-01-14,"Dobella minced garlic, 200 gm",canned food,38.49,55,7,14,538.86,2025-01,14
+2025-01-14,Nestle Evaporated Milk 170 g,dairy products,33.47,72,14,17,568.99,2025-01,48
+2025-01-14,Almarai Cheddar Cheese Slices,dairy products,43.96,51,16,19,835.24,2025-01,29
+2025-01-14,Puck Cream Cheese Spread,dairy products,31.24,22,9,23,718.52,2025-01,14
+2025-01-14,Lurpak Butter 500 g,dairy products,47.98,68,19,11,527.78,2025-01,32
+2025-01-14,Sadia Chicken Nuggets 1 Kg,frozen food,12.07,24,12,16,193.12,2025-01,19
+2025-01-14,Farm Frites French Fries 2.5 Kg,frozen food,22.89,59,17,6,137.34,2025-01,29
+2025-01-14,Green Giant Broccoli Florets 400 g,frozen food,34.19,43,14,15,512.85,2025-01,46
+2025-01-14,Oreo Original Biscuits 120 g,snacks,30.66,76,20,12,367.92,2025-01,18
+2025-01-14,Pringles Sour Cream & Onion 165 g,snacks,19.83,98,13,6,118.98,2025-01,11
+2025-01-14,Lay's Salted Potato Chips 200 g,snacks,15.96,45,11,19,303.24,2025-01,30
+2025-01-14,Galaxy Milk Chocolate Bar 100 g,confectionery,47.8,71,8,5,239.0,2025-01,48
+2025-01-14,Ferrero Rocher T3 37.5 g,confectionery,14.18,64,13,6,85.08,2025-01,40
+2025-01-14,Cadbury Dairy Milk 200 g,confectionery,25.3,29,16,7,177.1,2025-01,39
+2025-01-14,Sprite Soft Drink 1.5 L,beverages,26.59,35,7,15,398.85,2025-01,33
+2025-01-14,Coca-Cola Soft Drink 1.5 L,beverages,10.43,69,7,13,135.59,2025-01,38
+2025-01-14,Pepsi Soft Drink 1.5 L,beverages,31.39,23,17,19,596.41,2025-01,16
+2025-01-15,Royal Hills Mushrooms 400 g,canned food,48.83,26,5,12,585.96,2025-01,15
+2025-01-15,Amr Sweet Corn 400 Gm,canned food,14.96,61,5,14,209.44,2025-01,16
+2025-01-15,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,11.33,95,6,8,90.64,2025-01,49
+2025-01-15,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,12.56,88,16,22,276.32,2025-01,44
+2025-01-15,Royal Hills Boiled Chickpeas 400 g,canned food,42.71,30,5,10,427.1,2025-01,29
+2025-01-15,"Dobella minced garlic, 200 gm",canned food,16.55,10,20,15,248.25,2025-01,48
+2025-01-15,Nestle Evaporated Milk 170 g,dairy products,26.4,50,11,19,501.6,2025-01,10
+2025-01-15,Almarai Cheddar Cheese Slices,dairy products,13.81,15,13,18,248.58,2025-01,43
+2025-01-15,Puck Cream Cheese Spread,dairy products,11.26,73,5,17,191.42,2025-01,43
+2025-01-15,Lurpak Butter 500 g,dairy products,37.57,59,20,24,901.68,2025-01,25
+2025-01-15,Sadia Chicken Nuggets 1 Kg,frozen food,30.55,16,10,5,152.75,2025-01,38
+2025-01-15,Farm Frites French Fries 2.5 Kg,frozen food,25.8,40,5,19,490.2,2025-01,13
+2025-01-15,Green Giant Broccoli Florets 400 g,frozen food,38.08,83,9,18,685.44,2025-01,46
+2025-01-15,Oreo Original Biscuits 120 g,snacks,20.71,26,5,16,331.36,2025-01,33
+2025-01-15,Pringles Sour Cream & Onion 165 g,snacks,42.36,46,20,15,635.4,2025-01,13
+2025-01-15,Lay's Salted Potato Chips 200 g,snacks,43.29,39,16,11,476.19,2025-01,25
+2025-01-15,Galaxy Milk Chocolate Bar 100 g,confectionery,19.48,60,5,11,214.28,2025-01,32
+2025-01-15,Ferrero Rocher T3 37.5 g,confectionery,28.97,65,8,24,695.28,2025-01,26
+2025-01-15,Cadbury Dairy Milk 200 g,confectionery,32.59,26,13,7,228.13,2025-01,44
+2025-01-15,Sprite Soft Drink 1.5 L,beverages,30.13,56,10,25,753.25,2025-01,10
+2025-01-15,Coca-Cola Soft Drink 1.5 L,beverages,34.64,82,16,21,727.44,2025-01,17
+2025-01-15,Pepsi Soft Drink 1.5 L,beverages,15.38,38,11,20,307.6,2025-01,26
+2025-01-16,Royal Hills Mushrooms 400 g,canned food,43.17,58,13,14,604.38,2025-01,32
+2025-01-16,Amr Sweet Corn 400 Gm,canned food,38.65,28,6,5,193.25,2025-01,31
+2025-01-16,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,13.47,66,15,21,282.87,2025-01,13
+2025-01-16,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,10.35,40,18,8,82.8,2025-01,46
+2025-01-16,Royal Hills Boiled Chickpeas 400 g,canned food,14.44,54,12,9,129.96,2025-01,37
+2025-01-16,"Dobella minced garlic, 200 gm",canned food,20.99,89,14,14,293.86,2025-01,30
+2025-01-16,Nestle Evaporated Milk 170 g,dairy products,32.84,32,7,19,623.96,2025-01,40
+2025-01-16,Almarai Cheddar Cheese Slices,dairy products,31.46,15,10,13,408.98,2025-01,37
+2025-01-16,Puck Cream Cheese Spread,dairy products,32.02,90,16,20,640.4,2025-01,39
+2025-01-16,Lurpak Butter 500 g,dairy products,27.58,38,8,5,137.9,2025-01,21
+2025-01-16,Sadia Chicken Nuggets 1 Kg,frozen food,14.78,21,9,9,133.02,2025-01,36
+2025-01-16,Farm Frites French Fries 2.5 Kg,frozen food,46.76,41,11,20,935.2,2025-01,33
+2025-01-16,Green Giant Broccoli Florets 400 g,frozen food,36.66,23,5,6,219.96,2025-01,37
+2025-01-16,Oreo Original Biscuits 120 g,snacks,15.28,50,14,16,244.48,2025-01,35
+2025-01-16,Pringles Sour Cream & Onion 165 g,snacks,47.36,40,13,23,1089.28,2025-01,41
+2025-01-16,Lay's Salted Potato Chips 200 g,snacks,39.44,86,18,13,512.72,2025-01,48
+2025-01-16,Galaxy Milk Chocolate Bar 100 g,confectionery,10.54,75,18,15,158.1,2025-01,43
+2025-01-16,Ferrero Rocher T3 37.5 g,confectionery,35.16,47,13,12,421.92,2025-01,20
+2025-01-16,Cadbury Dairy Milk 200 g,confectionery,16.61,17,18,20,332.2,2025-01,46
+2025-01-16,Sprite Soft Drink 1.5 L,beverages,37.16,79,11,23,854.68,2025-01,38
+2025-01-16,Coca-Cola Soft Drink 1.5 L,beverages,13.37,46,8,25,334.25,2025-01,29
+2025-01-16,Pepsi Soft Drink 1.5 L,beverages,35.93,36,15,14,503.02,2025-01,46
+2025-01-17,Royal Hills Mushrooms 400 g,canned food,38.78,21,20,18,698.04,2025-01,31
+2025-01-17,Amr Sweet Corn 400 Gm,canned food,49.85,51,18,9,448.65,2025-01,35
+2025-01-17,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,12.25,87,17,13,159.25,2025-01,48
+2025-01-17,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,20.4,100,20,22,448.8,2025-01,47
+2025-01-17,Royal Hills Boiled Chickpeas 400 g,canned food,11.12,80,7,21,233.52,2025-01,31
+2025-01-17,"Dobella minced garlic, 200 gm",canned food,13.88,80,15,16,222.08,2025-01,25
+2025-01-17,Nestle Evaporated Milk 170 g,dairy products,41.17,80,20,25,1029.25,2025-01,16
+2025-01-17,Almarai Cheddar Cheese Slices,dairy products,40.17,60,17,8,321.36,2025-01,45
+2025-01-17,Puck Cream Cheese Spread,dairy products,24.31,35,17,25,607.75,2025-01,47
+2025-01-17,Lurpak Butter 500 g,dairy products,12.89,18,13,13,167.57,2025-01,34
+2025-01-17,Sadia Chicken Nuggets 1 Kg,frozen food,18.32,21,10,13,238.16,2025-01,32
+2025-01-17,Farm Frites French Fries 2.5 Kg,frozen food,28.05,75,12,24,673.2,2025-01,33
+2025-01-17,Green Giant Broccoli Florets 400 g,frozen food,22.13,46,18,9,199.17,2025-01,40
+2025-01-17,Oreo Original Biscuits 120 g,snacks,26.75,80,5,11,294.25,2025-01,33
+2025-01-17,Pringles Sour Cream & Onion 165 g,snacks,17.33,80,12,12,207.96,2025-01,35
+2025-01-17,Lay's Salted Potato Chips 200 g,snacks,32.23,40,18,24,773.52,2025-01,28
+2025-01-17,Galaxy Milk Chocolate Bar 100 g,confectionery,44.56,93,6,18,802.08,2025-01,30
+2025-01-17,Ferrero Rocher T3 37.5 g,confectionery,29.45,44,12,16,471.2,2025-01,29
+2025-01-17,Cadbury Dairy Milk 200 g,confectionery,43.73,90,17,8,349.84,2025-01,33
+2025-01-17,Sprite Soft Drink 1.5 L,beverages,28.84,40,9,18,519.12,2025-01,44
+2025-01-17,Coca-Cola Soft Drink 1.5 L,beverages,32.66,19,6,25,816.5,2025-01,47
+2025-01-17,Pepsi Soft Drink 1.5 L,beverages,28.26,88,6,19,536.94,2025-01,43
+2025-01-18,Royal Hills Mushrooms 400 g,canned food,23.3,74,19,13,302.9,2025-01,11
+2025-01-18,Amr Sweet Corn 400 Gm,canned food,39.07,80,10,10,390.7,2025-01,16
+2025-01-18,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,38.3,74,14,20,766.0,2025-01,46
+2025-01-18,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,44.4,33,18,16,710.4,2025-01,11
+2025-01-18,Royal Hills Boiled Chickpeas 400 g,canned food,45.47,80,10,6,272.82,2025-01,48
+2025-01-18,"Dobella minced garlic, 200 gm",canned food,41.52,39,19,10,415.2,2025-01,10
+2025-01-18,Nestle Evaporated Milk 170 g,dairy products,23.93,15,15,8,191.44,2025-01,14
+2025-01-18,Almarai Cheddar Cheese Slices,dairy products,43.86,29,18,18,789.48,2025-01,45
+2025-01-18,Puck Cream Cheese Spread,dairy products,21.9,92,16,7,153.3,2025-01,47
+2025-01-18,Lurpak Butter 500 g,dairy products,13.81,17,15,13,179.53,2025-01,44
+2025-01-18,Sadia Chicken Nuggets 1 Kg,frozen food,18.5,49,18,23,425.5,2025-01,49
+2025-01-18,Farm Frites French Fries 2.5 Kg,frozen food,29.37,45,13,12,352.44,2025-01,35
+2025-01-18,Green Giant Broccoli Florets 400 g,frozen food,43.46,51,8,20,869.2,2025-01,12
+2025-01-18,Oreo Original Biscuits 120 g,snacks,20.86,35,20,8,166.88,2025-01,25
+2025-01-18,Pringles Sour Cream & Onion 165 g,snacks,12.68,73,10,22,278.96,2025-01,37
+2025-01-18,Lay's Salted Potato Chips 200 g,snacks,47.25,38,16,24,1134.0,2025-01,36
+2025-01-18,Galaxy Milk Chocolate Bar 100 g,confectionery,20.84,99,9,15,312.6,2025-01,39
+2025-01-18,Ferrero Rocher T3 37.5 g,confectionery,38.59,18,6,24,926.16,2025-01,28
+2025-01-18,Cadbury Dairy Milk 200 g,confectionery,24.51,51,8,9,220.59,2025-01,37
+2025-01-18,Sprite Soft Drink 1.5 L,beverages,19.17,19,10,15,287.55,2025-01,20
+2025-01-18,Coca-Cola Soft Drink 1.5 L,beverages,28.39,85,14,17,482.63,2025-01,31
+2025-01-18,Pepsi Soft Drink 1.5 L,beverages,47.68,66,11,14,667.52,2025-01,30
+2025-01-19,Royal Hills Mushrooms 400 g,canned food,35.48,11,6,9,319.32,2025-01,21
+2025-01-19,Amr Sweet Corn 400 Gm,canned food,38.6,86,12,21,810.6,2025-01,22
+2025-01-19,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,26.38,71,14,6,158.28,2025-01,21
+2025-01-19,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,22.86,74,17,21,480.06,2025-01,28
+2025-01-19,Royal Hills Boiled Chickpeas 400 g,canned food,44.49,82,8,24,1067.76,2025-01,29
+2025-01-19,"Dobella minced garlic, 200 gm",canned food,28.43,40,6,8,227.44,2025-01,34
+2025-01-19,Nestle Evaporated Milk 170 g,dairy products,30.82,24,11,6,184.92,2025-01,32
+2025-01-19,Almarai Cheddar Cheese Slices,dairy products,44.82,48,17,24,1075.68,2025-01,27
+2025-01-19,Puck Cream Cheese Spread,dairy products,47.59,74,14,18,856.62,2025-01,30
+2025-01-19,Lurpak Butter 500 g,dairy products,26.4,29,12,17,448.8,2025-01,34
+2025-01-19,Sadia Chicken Nuggets 1 Kg,frozen food,48.54,23,7,13,631.02,2025-01,26
+2025-01-19,Farm Frites French Fries 2.5 Kg,frozen food,27.22,17,19,12,326.64,2025-01,33
+2025-01-19,Green Giant Broccoli Florets 400 g,frozen food,14.11,33,9,17,239.87,2025-01,32
+2025-01-19,Oreo Original Biscuits 120 g,snacks,22.78,97,16,9,205.02,2025-01,28
+2025-01-19,Pringles Sour Cream & Onion 165 g,snacks,24.49,62,12,7,171.43,2025-01,12
+2025-01-19,Lay's Salted Potato Chips 200 g,snacks,32.88,95,13,10,328.8,2025-01,43
+2025-01-19,Galaxy Milk Chocolate Bar 100 g,confectionery,27.78,41,18,6,166.68,2025-01,17
+2025-01-19,Ferrero Rocher T3 37.5 g,confectionery,11.91,90,9,19,226.29,2025-01,28
+2025-01-19,Cadbury Dairy Milk 200 g,confectionery,21.93,15,11,21,460.53,2025-01,46
+2025-01-19,Sprite Soft Drink 1.5 L,beverages,37.54,47,14,17,638.18,2025-01,29
+2025-01-19,Coca-Cola Soft Drink 1.5 L,beverages,12.51,70,11,17,212.67,2025-01,36
+2025-01-19,Pepsi Soft Drink 1.5 L,beverages,16.12,90,13,19,306.28,2025-01,34
+2025-01-20,Royal Hills Mushrooms 400 g,canned food,27.13,56,8,24,651.12,2025-01,24
+2025-01-20,Amr Sweet Corn 400 Gm,canned food,39.2,94,17,12,470.4,2025-01,43
+2025-01-20,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,31.54,23,10,18,567.72,2025-01,25
+2025-01-20,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,11.43,11,5,6,68.58,2025-01,37
+2025-01-20,Royal Hills Boiled Chickpeas 400 g,canned food,35.57,87,13,25,889.25,2025-01,41
+2025-01-20,"Dobella minced garlic, 200 gm",canned food,38.57,69,19,19,732.83,2025-01,21
+2025-01-20,Nestle Evaporated Milk 170 g,dairy products,48.87,66,15,15,733.05,2025-01,27
+2025-01-20,Almarai Cheddar Cheese Slices,dairy products,48.18,81,13,19,915.42,2025-01,40
+2025-01-20,Puck Cream Cheese Spread,dairy products,11.62,83,12,11,127.82,2025-01,19
+2025-01-20,Lurpak Butter 500 g,dairy products,12.38,54,18,23,284.74,2025-01,33
+2025-01-20,Sadia Chicken Nuggets 1 Kg,frozen food,38.46,27,9,16,615.36,2025-01,29
+2025-01-20,Farm Frites French Fries 2.5 Kg,frozen food,29.91,56,16,11,329.01,2025-01,36
+2025-01-20,Green Giant Broccoli Florets 400 g,frozen food,25.54,75,8,12,306.48,2025-01,16
+2025-01-20,Oreo Original Biscuits 120 g,snacks,38.23,26,7,19,726.37,2025-01,11
+2025-01-20,Pringles Sour Cream & Onion 165 g,snacks,21.22,30,8,17,360.74,2025-01,18
+2025-01-20,Lay's Salted Potato Chips 200 g,snacks,33.48,100,17,13,435.24,2025-01,15
+2025-01-20,Galaxy Milk Chocolate Bar 100 g,confectionery,29.7,32,11,15,445.5,2025-01,35
+2025-01-20,Ferrero Rocher T3 37.5 g,confectionery,33.69,22,5,10,336.9,2025-01,41
+2025-01-20,Cadbury Dairy Milk 200 g,confectionery,12.57,34,16,18,226.26,2025-01,16
+2025-01-20,Sprite Soft Drink 1.5 L,beverages,43.88,47,17,5,219.4,2025-01,16
+2025-01-20,Coca-Cola Soft Drink 1.5 L,beverages,38.94,46,10,25,973.5,2025-01,34
+2025-01-20,Pepsi Soft Drink 1.5 L,beverages,43.37,86,12,16,693.92,2025-01,35
+2025-01-21,Royal Hills Mushrooms 400 g,canned food,39.14,48,17,23,900.22,2025-01,50
+2025-01-21,Amr Sweet Corn 400 Gm,canned food,19.92,16,6,20,398.4,2025-01,50
+2025-01-21,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,47.74,94,18,12,572.88,2025-01,22
+2025-01-21,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,26.09,100,10,15,391.35,2025-01,40
+2025-01-21,Royal Hills Boiled Chickpeas 400 g,canned food,11.67,43,19,5,58.35,2025-01,50
+2025-01-21,"Dobella minced garlic, 200 gm",canned food,12.22,54,17,23,281.06,2025-01,11
+2025-01-21,Nestle Evaporated Milk 170 g,dairy products,20.07,50,17,20,401.4,2025-01,30
+2025-01-21,Almarai Cheddar Cheese Slices,dairy products,38.51,70,11,15,577.65,2025-01,42
+2025-01-21,Puck Cream Cheese Spread,dairy products,42.14,92,18,16,674.24,2025-01,14
+2025-01-21,Lurpak Butter 500 g,dairy products,14.86,21,13,25,371.5,2025-01,21
+2025-01-21,Sadia Chicken Nuggets 1 Kg,frozen food,38.82,37,19,20,776.4,2025-01,41
+2025-01-21,Farm Frites French Fries 2.5 Kg,frozen food,10.04,26,7,6,60.24,2025-01,38
+2025-01-21,Green Giant Broccoli Florets 400 g,frozen food,43.95,78,17,19,835.05,2025-01,45
+2025-01-21,Oreo Original Biscuits 120 g,snacks,46.57,47,8,12,558.84,2025-01,41
+2025-01-21,Pringles Sour Cream & Onion 165 g,snacks,33.03,21,9,8,264.24,2025-01,34
+2025-01-21,Lay's Salted Potato Chips 200 g,snacks,21.55,61,20,14,301.7,2025-01,12
+2025-01-21,Galaxy Milk Chocolate Bar 100 g,confectionery,13.27,56,15,15,199.05,2025-01,32
+2025-01-21,Ferrero Rocher T3 37.5 g,confectionery,23.5,91,13,7,164.5,2025-01,35
+2025-01-21,Cadbury Dairy Milk 200 g,confectionery,33.29,62,5,13,432.77,2025-01,20
+2025-01-21,Sprite Soft Drink 1.5 L,beverages,46.11,42,17,18,829.98,2025-01,33
+2025-01-21,Coca-Cola Soft Drink 1.5 L,beverages,19.45,76,10,16,311.2,2025-01,35
+2025-01-21,Pepsi Soft Drink 1.5 L,beverages,26.5,72,11,11,291.5,2025-01,34
+2025-01-22,Royal Hills Mushrooms 400 g,canned food,20.1,31,17,6,120.6,2025-01,18
+2025-01-22,Amr Sweet Corn 400 Gm,canned food,48.18,25,20,19,915.42,2025-01,33
+2025-01-22,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,26.02,75,13,19,494.38,2025-01,42
+2025-01-22,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,30.83,24,9,22,678.26,2025-01,19
+2025-01-22,Royal Hills Boiled Chickpeas 400 g,canned food,20.82,36,14,23,478.86,2025-01,13
+2025-01-22,"Dobella minced garlic, 200 gm",canned food,36.54,29,19,17,621.18,2025-01,37
+2025-01-22,Nestle Evaporated Milk 170 g,dairy products,17.39,91,5,5,86.95,2025-01,19
+2025-01-22,Almarai Cheddar Cheese Slices,dairy products,39.03,19,20,12,468.36,2025-01,43
+2025-01-22,Puck Cream Cheese Spread,dairy products,27.43,53,17,21,576.03,2025-01,47
+2025-01-22,Lurpak Butter 500 g,dairy products,14.08,18,14,24,337.92,2025-01,46
+2025-01-22,Sadia Chicken Nuggets 1 Kg,frozen food,35.91,56,12,12,430.92,2025-01,38
+2025-01-22,Farm Frites French Fries 2.5 Kg,frozen food,30.8,16,15,16,492.8,2025-01,22
+2025-01-22,Green Giant Broccoli Florets 400 g,frozen food,17.15,86,18,17,291.55,2025-01,46
+2025-01-22,Oreo Original Biscuits 120 g,snacks,44.46,83,14,20,889.2,2025-01,26
+2025-01-22,Pringles Sour Cream & Onion 165 g,snacks,18.45,88,11,8,147.6,2025-01,46
+2025-01-22,Lay's Salted Potato Chips 200 g,snacks,18.87,20,15,23,434.01,2025-01,25
+2025-01-22,Galaxy Milk Chocolate Bar 100 g,confectionery,43.19,23,17,22,950.18,2025-01,11
+2025-01-22,Ferrero Rocher T3 37.5 g,confectionery,41.06,23,15,19,780.14,2025-01,15
+2025-01-22,Cadbury Dairy Milk 200 g,confectionery,42.67,43,15,17,725.39,2025-01,17
+2025-01-22,Sprite Soft Drink 1.5 L,beverages,17.45,89,5,8,139.6,2025-01,39
+2025-01-22,Coca-Cola Soft Drink 1.5 L,beverages,48.03,26,17,23,1104.69,2025-01,22
+2025-01-22,Pepsi Soft Drink 1.5 L,beverages,18.03,56,12,15,270.45,2025-01,39
+2025-01-23,Royal Hills Mushrooms 400 g,canned food,37.73,33,5,19,716.87,2025-01,36
+2025-01-23,Amr Sweet Corn 400 Gm,canned food,48.55,67,9,14,679.7,2025-01,10
+2025-01-23,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,44.53,47,14,18,801.54,2025-01,15
+2025-01-23,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,18.06,63,9,6,108.36,2025-01,42
+2025-01-23,Royal Hills Boiled Chickpeas 400 g,canned food,43.89,31,15,25,1097.25,2025-01,22
+2025-01-23,"Dobella minced garlic, 200 gm",canned food,12.77,88,20,8,102.16,2025-01,11
+2025-01-23,Nestle Evaporated Milk 170 g,dairy products,49.1,36,16,23,1129.3,2025-01,29
+2025-01-23,Almarai Cheddar Cheese Slices,dairy products,46.95,63,9,19,892.05,2025-01,44
+2025-01-23,Puck Cream Cheese Spread,dairy products,10.86,57,14,12,130.32,2025-01,17
+2025-01-23,Lurpak Butter 500 g,dairy products,37.52,46,5,25,938.0,2025-01,19
+2025-01-23,Sadia Chicken Nuggets 1 Kg,frozen food,16.37,46,17,13,212.81,2025-01,16
+2025-01-23,Farm Frites French Fries 2.5 Kg,frozen food,32.36,100,13,25,809.0,2025-01,10
+2025-01-23,Green Giant Broccoli Florets 400 g,frozen food,39.01,58,14,7,273.07,2025-01,24
+2025-01-23,Oreo Original Biscuits 120 g,snacks,22.43,56,7,19,426.17,2025-01,12
+2025-01-23,Pringles Sour Cream & Onion 165 g,snacks,26.86,85,12,10,268.6,2025-01,22
+2025-01-23,Lay's Salted Potato Chips 200 g,snacks,48.22,39,16,19,916.18,2025-01,44
+2025-01-23,Galaxy Milk Chocolate Bar 100 g,confectionery,35.56,15,8,16,568.96,2025-01,20
+2025-01-23,Ferrero Rocher T3 37.5 g,confectionery,42.92,13,18,8,343.36,2025-01,39
+2025-01-23,Cadbury Dairy Milk 200 g,confectionery,15.2,67,19,13,197.6,2025-01,15
+2025-01-23,Sprite Soft Drink 1.5 L,beverages,14.98,11,15,20,299.6,2025-01,45
+2025-01-23,Coca-Cola Soft Drink 1.5 L,beverages,10.69,10,12,21,224.49,2025-01,30
+2025-01-23,Pepsi Soft Drink 1.5 L,beverages,21.06,54,16,14,294.84,2025-01,11
+2025-01-24,Royal Hills Mushrooms 400 g,canned food,40.51,40,14,18,729.18,2025-01,37
+2025-01-24,Amr Sweet Corn 400 Gm,canned food,49.02,81,10,23,1127.46,2025-01,16
+2025-01-24,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,25.09,59,9,15,376.35,2025-01,29
+2025-01-24,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,12.15,23,18,5,60.75,2025-01,35
+2025-01-24,Royal Hills Boiled Chickpeas 400 g,canned food,36.92,31,6,14,516.88,2025-01,44
+2025-01-24,"Dobella minced garlic, 200 gm",canned food,18.75,97,19,11,206.25,2025-01,27
+2025-01-24,Nestle Evaporated Milk 170 g,dairy products,33.52,60,18,20,670.4,2025-01,38
+2025-01-24,Almarai Cheddar Cheese Slices,dairy products,25.14,82,7,19,477.66,2025-01,19
+2025-01-24,Puck Cream Cheese Spread,dairy products,45.82,14,7,25,1145.5,2025-01,46
+2025-01-24,Lurpak Butter 500 g,dairy products,39.72,96,10,20,794.4,2025-01,11
+2025-01-24,Sadia Chicken Nuggets 1 Kg,frozen food,15.41,69,6,7,107.87,2025-01,46
+2025-01-24,Farm Frites French Fries 2.5 Kg,frozen food,10.31,51,7,8,82.48,2025-01,18
+2025-01-24,Green Giant Broccoli Florets 400 g,frozen food,28.09,63,14,20,561.8,2025-01,40
+2025-01-24,Oreo Original Biscuits 120 g,snacks,10.57,36,16,22,232.54,2025-01,25
+2025-01-24,Pringles Sour Cream & Onion 165 g,snacks,41.49,33,9,23,954.27,2025-01,19
+2025-01-24,Lay's Salted Potato Chips 200 g,snacks,10.81,60,19,8,86.48,2025-01,25
+2025-01-24,Galaxy Milk Chocolate Bar 100 g,confectionery,24.7,99,11,25,617.5,2025-01,10
+2025-01-24,Ferrero Rocher T3 37.5 g,confectionery,47.73,19,20,19,906.87,2025-01,49
+2025-01-24,Cadbury Dairy Milk 200 g,confectionery,45.12,80,6,10,451.2,2025-01,28
+2025-01-24,Sprite Soft Drink 1.5 L,beverages,30.34,57,19,19,576.46,2025-01,11
+2025-01-24,Coca-Cola Soft Drink 1.5 L,beverages,24.65,62,12,15,369.75,2025-01,38
+2025-01-24,Pepsi Soft Drink 1.5 L,beverages,40.71,88,13,5,203.55,2025-01,49
+2025-01-25,Royal Hills Mushrooms 400 g,canned food,27.49,88,5,5,137.45,2025-01,22
+2025-01-25,Amr Sweet Corn 400 Gm,canned food,46.79,12,6,24,1122.96,2025-01,13
+2025-01-25,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,40.95,78,16,9,368.55,2025-01,11
+2025-01-25,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,37.16,20,8,20,743.2,2025-01,34
+2025-01-25,Royal Hills Boiled Chickpeas 400 g,canned food,29.69,52,5,23,682.87,2025-01,31
+2025-01-25,"Dobella minced garlic, 200 gm",canned food,46.6,28,13,19,885.4,2025-01,28
+2025-01-25,Nestle Evaporated Milk 170 g,dairy products,39.58,96,20,12,474.96,2025-01,19
+2025-01-25,Almarai Cheddar Cheese Slices,dairy products,17.73,86,10,7,124.11,2025-01,20
+2025-01-25,Puck Cream Cheese Spread,dairy products,22.48,21,16,8,179.84,2025-01,34
+2025-01-25,Lurpak Butter 500 g,dairy products,29.44,32,7,24,706.56,2025-01,10
+2025-01-25,Sadia Chicken Nuggets 1 Kg,frozen food,42.34,74,7,9,381.06,2025-01,31
+2025-01-25,Farm Frites French Fries 2.5 Kg,frozen food,10.54,41,15,21,221.34,2025-01,45
+2025-01-25,Green Giant Broccoli Florets 400 g,frozen food,37.96,77,17,24,911.04,2025-01,24
+2025-01-25,Oreo Original Biscuits 120 g,snacks,19.84,77,8,14,277.76,2025-01,21
+2025-01-25,Pringles Sour Cream & Onion 165 g,snacks,10.42,34,13,11,114.62,2025-01,50
+2025-01-25,Lay's Salted Potato Chips 200 g,snacks,44.35,37,8,24,1064.4,2025-01,32
+2025-01-25,Galaxy Milk Chocolate Bar 100 g,confectionery,34.06,27,19,11,374.66,2025-01,44
+2025-01-25,Ferrero Rocher T3 37.5 g,confectionery,10.79,59,9,19,205.01,2025-01,26
+2025-01-25,Cadbury Dairy Milk 200 g,confectionery,44.67,83,6,9,402.03,2025-01,43
+2025-01-25,Sprite Soft Drink 1.5 L,beverages,45.86,85,9,15,687.9,2025-01,46
+2025-01-25,Coca-Cola Soft Drink 1.5 L,beverages,19.22,47,13,15,288.3,2025-01,17
+2025-01-25,Pepsi Soft Drink 1.5 L,beverages,22.02,66,11,5,110.1,2025-01,21
+2025-01-26,Royal Hills Mushrooms 400 g,canned food,40.13,54,17,23,922.99,2025-01,46
+2025-01-26,Amr Sweet Corn 400 Gm,canned food,21.15,13,8,17,359.55,2025-01,22
+2025-01-26,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,34.38,60,10,20,687.6,2025-01,18
+2025-01-26,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,23.5,29,20,23,540.5,2025-01,36
+2025-01-26,Royal Hills Boiled Chickpeas 400 g,canned food,20.7,21,17,18,372.6,2025-01,16
+2025-01-26,"Dobella minced garlic, 200 gm",canned food,22.21,97,7,23,510.83,2025-01,45
+2025-01-26,Nestle Evaporated Milk 170 g,dairy products,43.07,45,13,12,516.84,2025-01,13
+2025-01-26,Almarai Cheddar Cheese Slices,dairy products,16.61,71,16,14,232.54,2025-01,45
+2025-01-26,Puck Cream Cheese Spread,dairy products,14.89,78,18,25,372.25,2025-01,42
+2025-01-26,Lurpak Butter 500 g,dairy products,46.12,21,18,13,599.56,2025-01,31
+2025-01-26,Sadia Chicken Nuggets 1 Kg,frozen food,40.41,76,11,19,767.79,2025-01,24
+2025-01-26,Farm Frites French Fries 2.5 Kg,frozen food,26.92,84,9,11,296.12,2025-01,31
+2025-01-26,Green Giant Broccoli Florets 400 g,frozen food,27.47,46,10,7,192.29,2025-01,13
+2025-01-26,Oreo Original Biscuits 120 g,snacks,18.05,92,11,17,306.85,2025-01,10
+2025-01-26,Pringles Sour Cream & Onion 165 g,snacks,27.29,11,7,7,191.03,2025-01,13
+2025-01-26,Lay's Salted Potato Chips 200 g,snacks,27.54,75,16,5,137.7,2025-01,44
+2025-01-26,Galaxy Milk Chocolate Bar 100 g,confectionery,10.05,63,17,24,241.2,2025-01,50
+2025-01-26,Ferrero Rocher T3 37.5 g,confectionery,44.49,75,10,18,800.82,2025-01,14
+2025-01-26,Cadbury Dairy Milk 200 g,confectionery,42.06,78,15,11,462.66,2025-01,33
+2025-01-26,Sprite Soft Drink 1.5 L,beverages,15.48,47,18,13,201.24,2025-01,50
+2025-01-26,Coca-Cola Soft Drink 1.5 L,beverages,21.48,67,19,12,257.76,2025-01,38
+2025-01-26,Pepsi Soft Drink 1.5 L,beverages,42.73,29,9,10,427.3,2025-01,44
+2025-01-27,Royal Hills Mushrooms 400 g,canned food,20.69,96,16,23,475.87,2025-01,40
+2025-01-27,Amr Sweet Corn 400 Gm,canned food,49.9,35,9,8,399.2,2025-01,26
+2025-01-27,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,33.93,18,6,23,780.39,2025-01,33
+2025-01-27,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,28.65,66,20,5,143.25,2025-01,26
+2025-01-27,Royal Hills Boiled Chickpeas 400 g,canned food,16.11,91,5,25,402.75,2025-01,47
+2025-01-27,"Dobella minced garlic, 200 gm",canned food,24.33,36,17,8,194.64,2025-01,50
+2025-01-27,Nestle Evaporated Milk 170 g,dairy products,32.11,44,8,23,738.53,2025-01,15
+2025-01-27,Almarai Cheddar Cheese Slices,dairy products,27.21,83,13,16,435.36,2025-01,28
+2025-01-27,Puck Cream Cheese Spread,dairy products,39.42,56,14,12,473.04,2025-01,42
+2025-01-27,Lurpak Butter 500 g,dairy products,23.15,46,7,12,277.8,2025-01,36
+2025-01-27,Sadia Chicken Nuggets 1 Kg,frozen food,14.33,82,15,21,300.93,2025-01,48
+2025-01-27,Farm Frites French Fries 2.5 Kg,frozen food,41.27,25,18,19,784.13,2025-01,47
+2025-01-27,Green Giant Broccoli Florets 400 g,frozen food,49.41,90,7,11,543.51,2025-01,50
+2025-01-27,Oreo Original Biscuits 120 g,snacks,46.68,23,14,12,560.16,2025-01,32
+2025-01-27,Pringles Sour Cream & Onion 165 g,snacks,22.75,31,11,20,455.0,2025-01,49
+2025-01-27,Lay's Salted Potato Chips 200 g,snacks,24.54,50,19,16,392.64,2025-01,20
+2025-01-27,Galaxy Milk Chocolate Bar 100 g,confectionery,28.46,49,5,7,199.22,2025-01,46
+2025-01-27,Ferrero Rocher T3 37.5 g,confectionery,47.47,100,5,21,996.87,2025-01,10
+2025-01-27,Cadbury Dairy Milk 200 g,confectionery,30.52,10,18,7,213.64,2025-01,38
+2025-01-27,Sprite Soft Drink 1.5 L,beverages,45.43,42,20,16,726.88,2025-01,30
+2025-01-27,Coca-Cola Soft Drink 1.5 L,beverages,35.87,95,6,14,502.18,2025-01,23
+2025-01-27,Pepsi Soft Drink 1.5 L,beverages,38.02,66,20,11,418.22,2025-01,49
+2025-01-28,Royal Hills Mushrooms 400 g,canned food,20.53,35,7,6,123.18,2025-01,50
+2025-01-28,Amr Sweet Corn 400 Gm,canned food,19.23,79,13,18,346.14,2025-01,37
+2025-01-28,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,19.99,97,7,11,219.89,2025-01,27
+2025-01-28,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,49.96,65,11,18,899.28,2025-01,45
+2025-01-28,Royal Hills Boiled Chickpeas 400 g,canned food,37.3,99,8,17,634.1,2025-01,15
+2025-01-28,"Dobella minced garlic, 200 gm",canned food,17.55,69,12,17,298.35,2025-01,47
+2025-01-28,Nestle Evaporated Milk 170 g,dairy products,47.84,52,11,14,669.76,2025-01,39
+2025-01-28,Almarai Cheddar Cheese Slices,dairy products,25.17,61,5,23,578.91,2025-01,38
+2025-01-28,Puck Cream Cheese Spread,dairy products,32.89,90,17,25,822.25,2025-01,15
+2025-01-28,Lurpak Butter 500 g,dairy products,24.97,21,20,25,624.25,2025-01,49
+2025-01-28,Sadia Chicken Nuggets 1 Kg,frozen food,11.53,47,5,18,207.54,2025-01,31
+2025-01-28,Farm Frites French Fries 2.5 Kg,frozen food,41.92,25,18,23,964.16,2025-01,18
+2025-01-28,Green Giant Broccoli Florets 400 g,frozen food,16.35,27,19,22,359.7,2025-01,32
+2025-01-28,Oreo Original Biscuits 120 g,snacks,31.41,64,10,9,282.69,2025-01,22
+2025-01-28,Pringles Sour Cream & Onion 165 g,snacks,39.36,26,20,11,432.96,2025-01,38
+2025-01-28,Lay's Salted Potato Chips 200 g,snacks,11.36,78,5,21,238.56,2025-01,31
+2025-01-28,Galaxy Milk Chocolate Bar 100 g,confectionery,30.0,11,12,21,630.0,2025-01,49
+2025-01-28,Ferrero Rocher T3 37.5 g,confectionery,16.5,60,15,13,214.5,2025-01,21
+2025-01-28,Cadbury Dairy Milk 200 g,confectionery,29.91,94,16,7,209.37,2025-01,28
+2025-01-28,Sprite Soft Drink 1.5 L,beverages,39.6,38,5,18,712.8,2025-01,28
+2025-01-28,Coca-Cola Soft Drink 1.5 L,beverages,10.95,14,14,13,142.35,2025-01,20
+2025-01-28,Pepsi Soft Drink 1.5 L,beverages,32.42,23,13,13,421.46,2025-01,30
+2025-01-29,Royal Hills Mushrooms 400 g,canned food,29.49,82,5,13,383.37,2025-01,35
+2025-01-29,Amr Sweet Corn 400 Gm,canned food,43.59,78,20,5,217.95,2025-01,42
+2025-01-29,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,14.55,30,19,21,305.55,2025-01,37
+2025-01-29,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,14.91,72,20,21,313.11,2025-01,30
+2025-01-29,Royal Hills Boiled Chickpeas 400 g,canned food,26.96,34,16,14,377.44,2025-01,22
+2025-01-29,"Dobella minced garlic, 200 gm",canned food,17.45,87,12,25,436.25,2025-01,18
+2025-01-29,Nestle Evaporated Milk 170 g,dairy products,29.18,89,7,24,700.32,2025-01,30
+2025-01-29,Almarai Cheddar Cheese Slices,dairy products,19.28,13,16,25,482.0,2025-01,32
+2025-01-29,Puck Cream Cheese Spread,dairy products,16.34,79,19,12,196.08,2025-01,40
+2025-01-29,Lurpak Butter 500 g,dairy products,46.53,29,5,25,1163.25,2025-01,18
+2025-01-29,Sadia Chicken Nuggets 1 Kg,frozen food,37.4,89,12,7,261.8,2025-01,34
+2025-01-29,Farm Frites French Fries 2.5 Kg,frozen food,39.57,79,9,23,910.11,2025-01,17
+2025-01-29,Green Giant Broccoli Florets 400 g,frozen food,25.54,22,13,22,561.88,2025-01,16
+2025-01-29,Oreo Original Biscuits 120 g,snacks,35.26,26,6,6,211.56,2025-01,47
+2025-01-29,Pringles Sour Cream & Onion 165 g,snacks,27.89,11,8,16,446.24,2025-01,36
+2025-01-29,Lay's Salted Potato Chips 200 g,snacks,16.47,67,12,9,148.23,2025-01,12
+2025-01-29,Galaxy Milk Chocolate Bar 100 g,confectionery,38.66,96,9,13,502.58,2025-01,34
+2025-01-29,Ferrero Rocher T3 37.5 g,confectionery,43.02,98,19,23,989.46,2025-01,12
+2025-01-29,Cadbury Dairy Milk 200 g,confectionery,46.58,21,18,21,978.18,2025-01,22
+2025-01-29,Sprite Soft Drink 1.5 L,beverages,16.47,83,16,6,98.82,2025-01,43
+2025-01-29,Coca-Cola Soft Drink 1.5 L,beverages,10.99,45,11,10,109.9,2025-01,25
+2025-01-29,Pepsi Soft Drink 1.5 L,beverages,23.7,38,20,5,118.5,2025-01,35
+2025-01-30,Royal Hills Mushrooms 400 g,canned food,43.45,30,11,15,651.75,2025-01,25
+2025-01-30,Amr Sweet Corn 400 Gm,canned food,24.69,61,17,20,493.8,2025-01,26
+2025-01-30,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,43.06,86,19,16,688.96,2025-01,36
+2025-01-30,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,29.89,35,18,8,239.12,2025-01,29
+2025-01-30,Royal Hills Boiled Chickpeas 400 g,canned food,28.22,80,10,5,141.1,2025-01,50
+2025-01-30,"Dobella minced garlic, 200 gm",canned food,24.01,28,16,17,408.17,2025-01,39
+2025-01-30,Nestle Evaporated Milk 170 g,dairy products,23.73,33,13,15,355.95,2025-01,28
+2025-01-30,Almarai Cheddar Cheese Slices,dairy products,46.97,17,11,20,939.4,2025-01,32
+2025-01-30,Puck Cream Cheese Spread,dairy products,18.68,84,12,25,467.0,2025-01,10
+2025-01-30,Lurpak Butter 500 g,dairy products,49.92,51,11,16,798.72,2025-01,37
+2025-01-30,Sadia Chicken Nuggets 1 Kg,frozen food,42.63,50,13,12,511.56,2025-01,11
+2025-01-30,Farm Frites French Fries 2.5 Kg,frozen food,20.46,82,8,6,122.76,2025-01,30
+2025-01-30,Green Giant Broccoli Florets 400 g,frozen food,38.31,16,15,18,689.58,2025-01,27
+2025-01-30,Oreo Original Biscuits 120 g,snacks,38.11,70,12,21,800.31,2025-01,44
+2025-01-30,Pringles Sour Cream & Onion 165 g,snacks,43.24,57,6,15,648.6,2025-01,43
+2025-01-30,Lay's Salted Potato Chips 200 g,snacks,20.76,61,8,13,269.88,2025-01,12
+2025-01-30,Galaxy Milk Chocolate Bar 100 g,confectionery,26.01,20,17,5,130.05,2025-01,35
+2025-01-30,Ferrero Rocher T3 37.5 g,confectionery,24.28,71,18,6,145.68,2025-01,22
+2025-01-30,Cadbury Dairy Milk 200 g,confectionery,30.2,90,15,16,483.2,2025-01,14
+2025-01-30,Sprite Soft Drink 1.5 L,beverages,15.58,100,6,22,342.76,2025-01,43
+2025-01-30,Coca-Cola Soft Drink 1.5 L,beverages,11.4,50,15,19,216.6,2025-01,15
+2025-01-30,Pepsi Soft Drink 1.5 L,beverages,27.48,70,7,24,659.52,2025-01,14
+2025-01-31,Royal Hills Mushrooms 400 g,canned food,37.51,34,10,7,262.57,2025-01,49
+2025-01-31,Amr Sweet Corn 400 Gm,canned food,20.22,81,5,14,283.08,2025-01,17
+2025-01-31,Wadi Food Whole Kernel Sweet Corn 400gm Tin,canned food,16.01,50,7,14,224.14,2025-01,37
+2025-01-31,"Americana Fava Beans with Oil, Lemon and Cumin - 400 Gm",canned food,28.89,93,15,9,260.01,2025-01,10
+2025-01-31,Royal Hills Boiled Chickpeas 400 g,canned food,19.86,99,15,8,158.88,2025-01,30
+2025-01-31,"Dobella minced garlic, 200 gm",canned food,15.02,56,6,14,210.28,2025-01,44
+2025-01-31,Nestle Evaporated Milk 170 g,dairy products,40.78,40,11,20,815.6,2025-01,21
+2025-01-31,Almarai Cheddar Cheese Slices,dairy products,21.25,41,10,20,425.0,2025-01,34
+2025-01-31,Puck Cream Cheese Spread,dairy products,25.57,80,17,19,485.83,2025-01,11
+2025-01-31,Lurpak Butter 500 g,dairy products,18.6,74,7,9,167.4,2025-01,11
+2025-01-31,Sadia Chicken Nuggets 1 Kg,frozen food,11.25,53,9,17,191.25,2025-01,19
+2025-01-31,Farm Frites French Fries 2.5 Kg,frozen food,39.76,60,12,18,715.68,2025-01,32
+2025-01-31,Green Giant Broccoli Florets 400 g,frozen food,33.06,23,14,9,297.54,2025-01,43
+2025-01-31,Oreo Original Biscuits 120 g,snacks,23.27,75,14,10,232.7,2025-01,39
+2025-01-31,Pringles Sour Cream & Onion 165 g,snacks,31.07,64,9,7,217.49,2025-01,45
+2025-01-31,Lay's Salted Potato Chips 200 g,snacks,41.01,53,8,25,1025.25,2025-01,33
+2025-01-31,Galaxy Milk Chocolate Bar 100 g,confectionery,23.34,52,18,7,163.38,2025-01,25
+2025-01-31,Ferrero Rocher T3 37.5 g,confectionery,17.0,95,17,13,221.0,2025-01,17
+2025-01-31,Cadbury Dairy Milk 200 g,confectionery,42.02,100,15,9,378.18,2025-01,27
+2025-01-31,Sprite Soft Drink 1.5 L,beverages,42.58,58,19,21,894.18,2025-01,15
+2025-01-31,Coca-Cola Soft Drink 1.5 L,beverages,42.37,54,12,22,932.14,2025-01,31
+2025-01-31,Pepsi Soft Drink 1.5 L,beverages,19.46,79,20,8,155.68,2025-01,49
